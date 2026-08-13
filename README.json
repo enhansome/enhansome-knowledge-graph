@@ -19,7 +19,7 @@
             "last_commit": "2026-07-22T16:26:28Z",
             "owner": "cayleygraph",
             "repo": "cayley",
-            "stars": 15058
+            "stars": 15057
           }
         },
         {
@@ -58,7 +58,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-12T16:29:46Z",
+            "last_commit": "2026-08-13T17:06:17Z",
             "owner": "hugegraph",
             "repo": "hugegraph",
             "stars": 26
@@ -78,10 +78,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T19:39:49Z",
+            "last_commit": "2026-08-13T19:54:14Z",
             "owner": "oxigraph",
             "repo": "oxigraph",
-            "stars": 1813
+            "stars": 1814
           }
         },
         {
@@ -92,7 +92,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-11T12:05:06Z",
+            "last_commit": "2026-08-13T18:28:06Z",
             "owner": "ad-freiburg",
             "repo": "qlever",
             "stars": 880
@@ -149,7 +149,7 @@
             "last_commit": "2026-07-15T06:02:05Z",
             "owner": "antvis",
             "repo": "G6",
-            "stars": 12246
+            "stars": 12247
           }
         },
         {
@@ -160,7 +160,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T04:22:16Z",
+            "last_commit": "2026-08-13T20:44:09Z",
             "owner": "graphistry",
             "repo": "pygraphistry",
             "stars": 2549
@@ -180,7 +180,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T04:22:16Z",
+            "last_commit": "2026-08-13T20:44:09Z",
             "owner": "graphistry",
             "repo": "pygraphistry",
             "stars": 2549
@@ -261,7 +261,7 @@
             "last_commit": "2021-03-11T11:20:57Z",
             "owner": "husthuke",
             "repo": "awesome-knowledge-graph",
-            "stars": 5150
+            "stars": 5149
           }
         },
         {
@@ -288,7 +288,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:23:24.183Z",
+    "last_updated": "2026-08-13T21:08:12.862Z",
     "original_repository": "totogo/awesome-knowledge-graph",
     "original_repository_sha": "63253666f76cc266a3fc1252fa855b82c7044329",
     "enhanced_repository": "enhansome/enhansome-knowledge-graph",
