@@ -58,7 +58,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T17:06:17Z",
+            "last_commit": "2026-08-14T14:22:40Z",
             "owner": "hugegraph",
             "repo": "hugegraph",
             "stars": 26
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-13T19:54:14Z",
             "owner": "oxigraph",
             "repo": "oxigraph",
-            "stars": 1814
+            "stars": 1817
           }
         },
         {
@@ -92,10 +92,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T18:28:06Z",
+            "last_commit": "2026-08-14T19:45:42Z",
             "owner": "ad-freiburg",
             "repo": "qlever",
-            "stars": 880
+            "stars": 879
           }
         }
       ],
@@ -149,7 +149,7 @@
             "last_commit": "2026-07-15T06:02:05Z",
             "owner": "antvis",
             "repo": "G6",
-            "stars": 12247
+            "stars": 12248
           }
         },
         {
@@ -160,7 +160,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T20:44:09Z",
+            "last_commit": "2026-08-14T20:18:20Z",
             "owner": "graphistry",
             "repo": "pygraphistry",
             "stars": 2549
@@ -180,7 +180,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T20:44:09Z",
+            "last_commit": "2026-08-14T20:18:20Z",
             "owner": "graphistry",
             "repo": "pygraphistry",
             "stars": 2549
@@ -261,7 +261,7 @@
             "last_commit": "2021-03-11T11:20:57Z",
             "owner": "husthuke",
             "repo": "awesome-knowledge-graph",
-            "stars": 5149
+            "stars": 5148
           }
         },
         {
@@ -288,7 +288,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T21:08:12.862Z",
+    "last_updated": "2026-08-14T20:50:04.065Z",
     "original_repository": "totogo/awesome-knowledge-graph",
     "original_repository_sha": "63253666f76cc266a3fc1252fa855b82c7044329",
     "enhanced_repository": "enhansome/enhansome-knowledge-graph",
