@@ -26,10 +26,10 @@
 
 ### Graph Databases
 
-* [Cayley](https://github.com/cayleygraph/cayley) ⭐ 15,057 | 🐛 93 | 🌐 Go | 📅 2026-07-22 - open source database written in Go
+* [Cayley](https://github.com/cayleygraph/cayley) ⭐ 15,057 | 🐛 93 | 🌐 Go | 📅 2026-08-16 - open source database written in Go
 * [Blazegraph](https://github.com/blazegraph/database) ⚠️ Archived - GPU accelerated graph database
 * [Graphd](https://github.com/google/graphd) ⚠️ Archived - the Metaweb/Freebase Graph Repository
-* [HugeGraph](https://github.com/hugegraph/hugegraph) ⭐ 26 | 🐛 28 | 🌐 Java | 📅 2026-08-16 - An open source TinkerPop 3 compliant OLTP Graph Database with pluggable storage bakcend which is similar to JanusGraph. It also supports OLAP through Spark GraphX.
+* [HugeGraph](https://github.com/hugegraph/hugegraph) ⭐ 26 | 🐛 28 | 🌐 Java | 📅 2026-08-17 - An open source TinkerPop 3 compliant OLTP Graph Database with pluggable storage bakcend which is similar to JanusGraph. It also supports OLAP through Spark GraphX.
 * [AgensGraph](https://bitnine.net/agensgraph/) - multi-model graph database with SQL and Cypher support based on PostgreSQL
 * [ArangoDB](https://www.arangodb.com/) - highly available Multi-Model NoSQL database
 * [ArcadeDB](https://arcadedb.com/) - open-source multi-model database with graph, document and key-value support, ACID transactions, SQL and Cypher query languages
@@ -54,8 +54,8 @@
 
 ### Triple Stores
 
-* [Oxigraph](https://github.com/oxigraph/oxigraph) ⭐ 1,822 | 🐛 149 | 🌐 Rust | 📅 2026-08-16 - a light wight triple store written in Rust.
-* [CLever](https://github.com/ad-freiburg/qlever) ⭐ 880 | 🐛 372 | 🌐 C++ | 📅 2026-08-16 - a SPARQL engine that can efficiently index and query very large knowledge graphs with over 100 billion triples on a single standard PC or server
+* [Oxigraph](https://github.com/oxigraph/oxigraph) ⭐ 1,822 | 🐛 145 | 🌐 Rust | 📅 2026-08-17 - a light wight triple store written in Rust.
+* [CLever](https://github.com/ad-freiburg/qlever) ⭐ 882 | 🐛 375 | 🌐 C++ | 📅 2026-08-17 - a SPARQL engine that can efficiently index and query very large knowledge graphs with over 100 billion triples on a single standard PC or server
 * [AllegroGraph](https://franz.com/agraph/allegrograph/) - high-performance, persistent graph database that scales to billions of quads
 * [Apache Jena](https://jena.apache.org/) - open source Java framework for building Semantic Web and Linked Data applications
 * [Apache Marmotta](https://marmotta.apache.org/) - (retired Apache project) an open platform for linked data
@@ -77,8 +77,8 @@
 
 ### Graph Visualization
 
-* [AntV G6](https://github.com/antvis/g6) ⭐ 12,250 | 🐛 332 | 🌐 TypeScript | 📅 2026-07-15 - Simple, easy and complete high performance graph visualization engine written in JavaScript, from Ant Financial
-* [Graphistry](https://github.com/graphistry/pygraphistry) ⭐ 2,550 | 🐛 370 | 🌐 Python | 📅 2026-08-16 - An end-to-end GPU visual graph analytics engine (Nvidia RAPIDS.ai / Apache Arrow) with interfaces including JS/React, Python (Jupyter/StreamLit), REST, rich no-code/low-code UIs for various databases, and self + cloud hosting, from Graphistry.
+* [AntV G6](https://github.com/antvis/g6) ⭐ 12,256 | 🐛 332 | 🌐 TypeScript | 📅 2026-07-15 - Simple, easy and complete high performance graph visualization engine written in JavaScript, from Ant Financial
+* [Graphistry](https://github.com/graphistry/pygraphistry) ⭐ 2,551 | 🐛 370 | 🌐 Python | 📅 2026-08-16 - An end-to-end GPU visual graph analytics engine (Nvidia RAPIDS.ai / Apache Arrow) with interfaces including JS/React, Python (Jupyter/StreamLit), REST, rich no-code/low-code UIs for various databases, and self + cloud hosting, from Graphistry.
 * [Gephi](https://gephi.org/) - Graph visualization platform software runs on Windows, Mac and Linux.
 * [KeyLines & ReGraph](https://cambridge-intelligence.com/) - Graph visualization tookits for JavaScript and React developer from Cambridge Intelligence.
 * [Linkurious](https://linkurio.us) - Linkurious is an enterprise ready on-premises graph visualization and analysis platform.
@@ -103,7 +103,7 @@
 
 ### Managed Hosting Services
 
-* [Graphistry](https://github.com/graphistry/pygraphistry) ⭐ 2,550 | 🐛 370 | 🌐 Python | 📅 2026-08-16 - Cloud accounts for Graphistry end-to-end GPU-accelerated visual graph analytics projects
+* [Graphistry](https://github.com/graphistry/pygraphistry) ⭐ 2,551 | 🐛 370 | 🌐 Python | 📅 2026-08-16 - Cloud accounts for Graphistry end-to-end GPU-accelerated visual graph analytics projects
 * [JanusGraph @ Amazon Web Services Labs](https://github.com/awslabs/dynamodb-janusgraph-storage-backend) ⚠️ Archived - The Amazon DynamoDB Storage Backend for JanusGraph
 * [CosmosDB @ Microsoft](https://docs.microsoft.com/en-us/azure/cosmos-db/graph-introduction) - Azure Cosmos DB is Microsoft's globally distributed, multi-model (Key-value, Document, Column, Graph) database service.
 * [JanusGraph @ IBM Compose](https://www.compose.com/databases/janusgraph)
@@ -206,4 +206,4 @@ To the extent possible under law, Sitao Z. has waived all copyright and related 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
