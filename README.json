@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T22:10:40Z",
+            "last_commit": "2026-08-17T21:06:26Z",
             "owner": "cayleygraph",
             "repo": "cayley",
-            "stars": 15057
+            "stars": 15058
           }
         },
         {
@@ -58,7 +58,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T19:57:01Z",
+            "last_commit": "2026-08-18T14:25:21Z",
             "owner": "hugegraph",
             "repo": "hugegraph",
             "stars": 26
@@ -78,10 +78,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T17:03:41Z",
+            "last_commit": "2026-08-18T14:04:25Z",
             "owner": "oxigraph",
             "repo": "oxigraph",
-            "stars": 1822
+            "stars": 1824
           }
         },
         {
@@ -92,10 +92,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-17T18:04:05Z",
+            "last_commit": "2026-08-18T17:51:19Z",
             "owner": "ad-freiburg",
             "repo": "qlever",
-            "stars": 882
+            "stars": 884
           }
         }
       ],
@@ -149,7 +149,7 @@
             "last_commit": "2026-07-15T06:02:05Z",
             "owner": "antvis",
             "repo": "G6",
-            "stars": 12256
+            "stars": 12258
           }
         },
         {
@@ -160,7 +160,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T13:03:38Z",
+            "last_commit": "2026-08-18T19:55:08Z",
             "owner": "graphistry",
             "repo": "pygraphistry",
             "stars": 2551
@@ -180,7 +180,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T13:03:38Z",
+            "last_commit": "2026-08-18T19:55:08Z",
             "owner": "graphistry",
             "repo": "pygraphistry",
             "stars": 2551
@@ -217,7 +217,7 @@
             "last_commit": "2025-07-29T00:18:20Z",
             "owner": "dedupeio",
             "repo": "dedupe",
-            "stars": 4500
+            "stars": 4502
           }
         },
         {
@@ -261,7 +261,7 @@
             "last_commit": "2021-03-11T11:20:57Z",
             "owner": "husthuke",
             "repo": "awesome-knowledge-graph",
-            "stars": 5148
+            "stars": 5149
           }
         },
         {
@@ -288,7 +288,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T20:48:04.803Z",
+    "last_updated": "2026-08-18T20:43:34.320Z",
     "original_repository": "totogo/awesome-knowledge-graph",
     "original_repository_sha": "63253666f76cc266a3fc1252fa855b82c7044329",
     "enhanced_repository": "enhansome/enhansome-knowledge-graph",
