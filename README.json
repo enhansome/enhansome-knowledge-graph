@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-17T21:06:26Z",
                 "owner": "cayleygraph",
                 "repo": "cayley",
-                "stars": 15059
+                "stars": 15060
               }
             },
             {
@@ -96,7 +96,7 @@
                 "archived": false,
                 "id": 27594187,
                 "language": "C++",
-                "last_commit": "2026-08-18T23:10:12Z",
+                "last_commit": "2026-08-19T17:19:04Z",
                 "owner": "ad-freiburg",
                 "repo": "qlever",
                 "stars": 884
@@ -170,7 +170,7 @@
                 "archived": false,
                 "id": 36759907,
                 "language": "Python",
-                "last_commit": "2026-08-19T09:08:32Z",
+                "last_commit": "2026-08-19T14:44:14Z",
                 "owner": "graphistry",
                 "repo": "pygraphistry",
                 "stars": 2551
@@ -192,7 +192,7 @@
                 "archived": false,
                 "id": 36759907,
                 "language": "Python",
-                "last_commit": "2026-08-19T09:08:32Z",
+                "last_commit": "2026-08-19T14:44:14Z",
                 "owner": "graphistry",
                 "repo": "pygraphistry",
                 "stars": 2551
@@ -238,7 +238,7 @@
                 "last_commit": "2025-07-29T00:18:20Z",
                 "owner": "dedupeio",
                 "repo": "dedupe",
-                "stars": 4503
+                "stars": 4504
               }
             },
             {
@@ -279,7 +279,7 @@
             "last_commit": "2021-03-11T11:20:57Z",
             "owner": "husthuke",
             "repo": "awesome-knowledge-graph",
-            "stars": 5149
+            "stars": 5150
           }
         },
         {
@@ -302,7 +302,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:38:47.871Z",
+    "last_updated": "2026-08-19T20:49:22.481Z",
     "original_repository": "totogo/awesome-knowledge-graph",
     "original_repository_id": 168928820,
     "original_repository_sha": "63253666f76cc266a3fc1252fa855b82c7044329",
