@@ -1,251 +1,268 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Cayley",
+              "description": "open source database written in Go",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20537104,
+                "language": "Go",
+                "last_commit": "2026-08-17T21:06:26Z",
+                "owner": "cayleygraph",
+                "repo": "cayley",
+                "stars": 15059
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Blazegraph",
+              "description": "GPU accelerated graph database",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 48451041,
+                "language": "Java",
+                "last_commit": "2023-04-16T22:22:56Z",
+                "owner": "blazegraph",
+                "repo": "database",
+                "stars": 989
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Graphd",
+              "description": "the Metaweb/Freebase Graph Repository",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 147865986,
+                "language": "C",
+                "last_commit": "2020-07-09T18:57:18Z",
+                "owner": "googlearchive",
+                "repo": "graphd",
+                "stars": 452
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HugeGraph",
+              "description": "An open source TinkerPop 3 compliant OLTP Graph Database with pluggable storage bakcend which is similar to JanusGraph. It also supports OLAP through Spark GraphX.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 693555515,
+                "language": "Java",
+                "last_commit": "2026-08-19T05:12:05Z",
+                "owner": "hugegraph",
+                "repo": "hugegraph",
+                "stars": 26
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Graph Databases"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Oxigraph",
+              "description": "a light wight triple store written in Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 133687025,
+                "language": "Rust",
+                "last_commit": "2026-08-18T14:04:25Z",
+                "owner": "oxigraph",
+                "repo": "oxigraph",
+                "stars": 1824
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CLever",
+              "description": "a SPARQL engine that can efficiently index and query very large knowledge graphs with over 100 billion triples on a single standard PC or server",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27594187,
+                "language": "C++",
+                "last_commit": "2026-08-18T23:10:12Z",
+                "owner": "ad-freiburg",
+                "repo": "qlever",
+                "stars": 884
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Triple Stores"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Tencent Plato",
+              "description": "a fast distributed graph computation and machine learning framework used by WeChat",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 220415098,
+                "language": "C++",
+                "last_commit": "2021-08-14T05:54:28Z",
+                "owner": "Tencent",
+                "repo": "plato",
+                "stars": 1912
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gradoop",
+              "description": "a distributed graph analytics framework based on Apache Flink",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26323526,
+                "language": "Java",
+                "last_commit": "2026-01-11T23:35:05Z",
+                "owner": "dbs-leipzig",
+                "repo": "gradoop",
+                "stars": 251
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Graph Computing Frameworks"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AntV G6",
+              "description": "Simple, easy and complete high performance graph visualization engine written in JavaScript, from Ant Financial",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81810486,
+                "language": "TypeScript",
+                "last_commit": "2026-07-15T06:02:05Z",
+                "owner": "antvis",
+                "repo": "G6",
+                "stars": 12260
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Graphistry",
+              "description": "An end-to-end GPU visual graph analytics engine (Nvidia RAPIDS.ai / Apache Arrow) with interfaces including JS/React, Python (Jupyter/StreamLit), REST, rich no-code/low-code UIs for various databases, and self + cloud hosting, from Graphistry.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36759907,
+                "language": "Python",
+                "last_commit": "2026-08-19T09:08:32Z",
+                "owner": "graphistry",
+                "repo": "pygraphistry",
+                "stars": 2551
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Graph Visualization"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Graphistry",
+              "description": "Cloud accounts for Graphistry end-to-end GPU-accelerated visual graph analytics projects",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36759907,
+                "language": "Python",
+                "last_commit": "2026-08-19T09:08:32Z",
+                "owner": "graphistry",
+                "repo": "pygraphistry",
+                "stars": 2551
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JanusGraph @ Amazon Web Services Labs",
+              "description": "The Amazon DynamoDB Storage Backend for JanusGraph",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 41064139,
+                "language": "Java",
+                "last_commit": "2021-08-30T17:36:09Z",
+                "owner": "amazon-archives",
+                "repo": "dynamodb-janusgraph-storage-backend",
+                "stars": 446
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Managed Hosting Services"
+        }
+      ],
       "title": "Infrastructure"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Cayley",
-          "description": "open source database written in Go",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T21:06:26Z",
-            "owner": "cayleygraph",
-            "repo": "cayley",
-            "stars": 15058
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Blazegraph",
-          "description": "GPU accelerated graph database",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Java",
-            "last_commit": "2023-04-16T22:22:56Z",
-            "owner": "blazegraph",
-            "repo": "database",
-            "stars": 989
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Graphd",
-          "description": "the Metaweb/Freebase Graph Repository",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C",
-            "last_commit": "2020-07-09T18:57:18Z",
-            "owner": "googlearchive",
-            "repo": "graphd",
-            "stars": 452
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HugeGraph",
-          "description": "An open source TinkerPop 3 compliant OLTP Graph Database with pluggable storage bakcend which is similar to JanusGraph. It also supports OLAP through Spark GraphX.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-18T14:25:21Z",
-            "owner": "hugegraph",
-            "repo": "hugegraph",
-            "stars": 26
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Dedupe",
+              "description": "dedupe is a python library that uses machine learning to perform fuzzy matching, deduplication and entity resolution quickly on structured data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4087724,
+                "language": "Python",
+                "last_commit": "2025-07-29T00:18:20Z",
+                "owner": "dedupeio",
+                "repo": "dedupe",
+                "stars": 4503
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LIMES",
+              "description": "Link Discovery Framework for Metric Spaces.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42576588,
+                "language": "JavaScript",
+                "last_commit": "2025-09-16T14:09:14Z",
+                "owner": "dice-group",
+                "repo": "LIMES",
+                "stars": 133
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Knowledge Fusion"
         }
       ],
-      "title": "Graph Databases"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Oxigraph",
-          "description": "a light wight triple store written in Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T14:04:25Z",
-            "owner": "oxigraph",
-            "repo": "oxigraph",
-            "stars": 1824
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CLever",
-          "description": "a SPARQL engine that can efficiently index and query very large knowledge graphs with over 100 billion triples on a single standard PC or server",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-18T17:51:19Z",
-            "owner": "ad-freiburg",
-            "repo": "qlever",
-            "stars": 884
-          }
-        }
-      ],
-      "title": "Triple Stores"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Tencent Plato",
-          "description": "a fast distributed graph computation and machine learning framework used by WeChat",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2021-08-14T05:54:28Z",
-            "owner": "Tencent",
-            "repo": "plato",
-            "stars": 1912
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Gradoop",
-          "description": "a distributed graph analytics framework based on Apache Flink",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-01-11T23:35:05Z",
-            "owner": "dbs-leipzig",
-            "repo": "gradoop",
-            "stars": 251
-          }
-        }
-      ],
-      "title": "Graph Computing Frameworks"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "AntV G6",
-          "description": "Simple, easy and complete high performance graph visualization engine written in JavaScript, from Ant Financial",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-15T06:02:05Z",
-            "owner": "antvis",
-            "repo": "G6",
-            "stars": 12258
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Graphistry",
-          "description": "An end-to-end GPU visual graph analytics engine (Nvidia RAPIDS.ai / Apache Arrow) with interfaces including JS/React, Python (Jupyter/StreamLit), REST, rich no-code/low-code UIs for various databases, and self + cloud hosting, from Graphistry.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T19:55:08Z",
-            "owner": "graphistry",
-            "repo": "pygraphistry",
-            "stars": 2551
-          }
-        }
-      ],
-      "title": "Graph Visualization"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Graphistry",
-          "description": "Cloud accounts for Graphistry end-to-end GPU-accelerated visual graph analytics projects",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T19:55:08Z",
-            "owner": "graphistry",
-            "repo": "pygraphistry",
-            "stars": 2551
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "JanusGraph @ Amazon Web Services Labs",
-          "description": "The Amazon DynamoDB Storage Backend for JanusGraph",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Java",
-            "last_commit": "2021-08-30T17:36:09Z",
-            "owner": "amazon-archives",
-            "repo": "dynamodb-janusgraph-storage-backend",
-            "stars": 446
-          }
-        }
-      ],
-      "title": "Managed Hosting Services"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Dedupe",
-          "description": "dedupe is a python library that uses machine learning to perform fuzzy matching, deduplication and entity resolution quickly on structured data.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-07-29T00:18:20Z",
-            "owner": "dedupeio",
-            "repo": "dedupe",
-            "stars": 4502
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LIMES",
-          "description": "Link Discovery Framework for Metric Spaces.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-09-16T14:09:14Z",
-            "owner": "dice-group",
-            "repo": "LIMES",
-            "stars": 133
-          }
-        }
-      ],
-      "title": "Knowledge Fusion"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Knowledge Graph Dataset"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Learning Materials"
+      "title": "Knowledge Engineering"
     },
     {
       "description": "Contributions welcome! Read the contribution guidelines first.Some of the content were copied from other awesome lists:",
@@ -257,6 +274,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 149130115,
             "language": null,
             "last_commit": "2021-03-11T11:20:57Z",
             "owner": "husthuke",
@@ -271,6 +289,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 106101654,
             "language": null,
             "last_commit": "2026-02-26T11:03:59Z",
             "owner": "jbmusso",
@@ -280,16 +299,12 @@
         }
       ],
       "title": "Contribute"
-    },
-    {
-      "description": "To the extent possible under law, Sitao Z. has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T20:43:34.320Z",
+    "last_updated": "2026-08-19T12:38:47.871Z",
     "original_repository": "totogo/awesome-knowledge-graph",
+    "original_repository_id": 168928820,
     "original_repository_sha": "63253666f76cc266a3fc1252fa855b82c7044329",
     "enhanced_repository": "enhansome/enhansome-knowledge-graph",
     "enhanced_repository_description": null,
