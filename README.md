@@ -29,7 +29,7 @@
 * [Cayley](https://github.com/cayleygraph/cayley) ⭐ 15,060 | 🐛 93 | 🌐 Go | 📅 2026-08-17 - open source database written in Go
 * [Blazegraph](https://github.com/blazegraph/database) ⚠️ Archived - GPU accelerated graph database
 * [Graphd](https://github.com/google/graphd) ⚠️ Archived - the Metaweb/Freebase Graph Repository
-* [HugeGraph](https://github.com/hugegraph/hugegraph) ⭐ 26 | 🐛 32 | 🌐 Java | 📅 2026-08-21 - An open source TinkerPop 3 compliant OLTP Graph Database with pluggable storage bakcend which is similar to JanusGraph. It also supports OLAP through Spark GraphX.
+* [HugeGraph](https://github.com/hugegraph/hugegraph) ⭐ 26 | 🐛 32 | 🌐 Java | 📅 2026-08-22 - An open source TinkerPop 3 compliant OLTP Graph Database with pluggable storage bakcend which is similar to JanusGraph. It also supports OLAP through Spark GraphX.
 * [AgensGraph](https://bitnine.net/agensgraph/) - multi-model graph database with SQL and Cypher support based on PostgreSQL
 * [ArangoDB](https://www.arangodb.com/) - highly available Multi-Model NoSQL database
 * [ArcadeDB](https://arcadedb.com/) - open-source multi-model database with graph, document and key-value support, ACID transactions, SQL and Cypher query languages
@@ -54,8 +54,8 @@
 
 ### Triple Stores
 
-* [Oxigraph](https://github.com/oxigraph/oxigraph) ⭐ 1,828 | 🐛 149 | 🌐 Rust | 📅 2026-08-18 - a light wight triple store written in Rust.
-* [CLever](https://github.com/ad-freiburg/qlever) ⭐ 884 | 🐛 384 | 🌐 C++ | 📅 2026-08-20 - a SPARQL engine that can efficiently index and query very large knowledge graphs with over 100 billion triples on a single standard PC or server
+* [Oxigraph](https://github.com/oxigraph/oxigraph) ⭐ 1,832 | 🐛 148 | 🌐 Rust | 📅 2026-08-22 - a light wight triple store written in Rust.
+* [CLever](https://github.com/ad-freiburg/qlever) ⭐ 884 | 🐛 384 | 🌐 C++ | 📅 2026-08-22 - a SPARQL engine that can efficiently index and query very large knowledge graphs with over 100 billion triples on a single standard PC or server
 * [AllegroGraph](https://franz.com/agraph/allegrograph/) - high-performance, persistent graph database that scales to billions of quads
 * [Apache Jena](https://jena.apache.org/) - open source Java framework for building Semantic Web and Linked Data applications
 * [Apache Marmotta](https://marmotta.apache.org/) - (retired Apache project) an open platform for linked data
@@ -77,7 +77,7 @@
 
 ### Graph Visualization
 
-* [AntV G6](https://github.com/antvis/g6) ⭐ 12,267 | 🐛 332 | 🌐 TypeScript | 📅 2026-07-15 - Simple, easy and complete high performance graph visualization engine written in JavaScript, from Ant Financial
+* [AntV G6](https://github.com/antvis/g6) ⭐ 12,269 | 🐛 332 | 🌐 TypeScript | 📅 2026-07-15 - Simple, easy and complete high performance graph visualization engine written in JavaScript, from Ant Financial
 * [Graphistry](https://github.com/graphistry/pygraphistry) ⭐ 2,551 | 🐛 359 | 🌐 Python | 📅 2026-08-21 - An end-to-end GPU visual graph analytics engine (Nvidia RAPIDS.ai / Apache Arrow) with interfaces including JS/React, Python (Jupyter/StreamLit), REST, rich no-code/low-code UIs for various databases, and self + cloud hosting, from Graphistry.
 * [Gephi](https://gephi.org/) - Graph visualization platform software runs on Windows, Mac and Linux.
 * [KeyLines & ReGraph](https://cambridge-intelligence.com/) - Graph visualization tookits for JavaScript and React developer from Cambridge Intelligence.
@@ -206,4 +206,4 @@ To the extent possible under law, Sitao Z. has waived all copyright and related 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
