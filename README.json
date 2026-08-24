@@ -59,7 +59,7 @@
                 "archived": false,
                 "id": 693555515,
                 "language": "Java",
-                "last_commit": "2026-08-23T19:54:04Z",
+                "last_commit": "2026-08-24T18:33:55Z",
                 "owner": "hugegraph",
                 "repo": "hugegraph",
                 "stars": 26
@@ -81,10 +81,10 @@
                 "archived": false,
                 "id": 133687025,
                 "language": "Rust",
-                "last_commit": "2026-08-23T19:33:15Z",
+                "last_commit": "2026-08-24T19:22:27Z",
                 "owner": "oxigraph",
                 "repo": "oxigraph",
-                "stars": 1833
+                "stars": 1834
               }
             },
             {
@@ -380,7 +380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:08:48.116Z",
+    "last_updated": "2026-08-24T20:52:57.214Z",
     "original_repository": "totogo/awesome-knowledge-graph",
     "original_repository_id": 168928820,
     "original_repository_sha": "63253666f76cc266a3fc1252fa855b82c7044329",
