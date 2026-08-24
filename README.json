@@ -158,7 +158,7 @@
                 "last_commit": "2026-07-15T06:02:05Z",
                 "owner": "antvis",
                 "repo": "G6",
-                "stars": 12270
+                "stars": 12272
               }
             },
             {
@@ -180,6 +180,28 @@
           "description": null,
           "node_type": "group",
           "title": "Graph Visualization"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Morph-KGC",
+              "description": "Knowledge graph generation system with RML mappings.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 311956260,
+                "language": "Python",
+                "last_commit": "2026-06-28T21:09:30Z",
+                "owner": "morph-kgc",
+                "repo": "morph-kgc",
+                "stars": 289
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Graph Construction"
         },
         {
           "children": [
@@ -265,6 +287,62 @@
       "title": "Knowledge Engineering"
     },
     {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "YAGO",
+              "description": "A huge semantic knowledge base, derived from Wikipedia, WordNet and GeoNames. Currently, YAGO has knowledge of more than 10 million entities (like persons, organizations, cities, etc.) and contains more than 120 million facts about these entities. The source code of YAGO is in this Github repo.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 101759376,
+                "language": "Java",
+                "last_commit": "2022-07-05T09:54:51Z",
+                "owner": "yago-naga",
+                "repo": "yago3",
+                "stars": 755
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "General"
+        }
+      ],
+      "title": "Knowledge Graph Dataset"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Graph Book",
+              "description": "TinkerPop3 centric book written by Kelvin R. Lawrence",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 105672026,
+                "language": "Ruby",
+                "last_commit": "2026-02-26T16:35:38Z",
+                "owner": "krlawrence",
+                "repo": "graph",
+                "stars": 865
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Community Effort"
+        }
+      ],
+      "title": "Learning Materials"
+    },
+    {
       "description": "Contributions welcome! Read the contribution guidelines first.Some of the content were copied from other awesome lists:",
       "items": [
         {
@@ -302,7 +380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T20:43:30.961Z",
+    "last_updated": "2026-08-24T14:08:48.116Z",
     "original_repository": "totogo/awesome-knowledge-graph",
     "original_repository_id": 168928820,
     "original_repository_sha": "63253666f76cc266a3fc1252fa855b82c7044329",

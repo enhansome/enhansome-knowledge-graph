@@ -55,7 +55,7 @@
 ### Triple Stores
 
 * [Oxigraph](https://github.com/oxigraph/oxigraph) ⭐ 1,833 | 🐛 146 | 🌐 Rust | 📅 2026-08-23 - a light wight triple store written in Rust.
-* [CLever](https://github.com/ad-freiburg/qlever) ⭐ 884 | 🐛 384 | 🌐 C++ | 📅 2026-08-22 - a SPARQL engine that can efficiently index and query very large knowledge graphs with over 100 billion triples on a single standard PC or server
+* [CLever](https://github.com/ad-freiburg/qlever) ⭐ 884 | 🐛 385 | 🌐 C++ | 📅 2026-08-22 - a SPARQL engine that can efficiently index and query very large knowledge graphs with over 100 billion triples on a single standard PC or server
 * [AllegroGraph](https://franz.com/agraph/allegrograph/) - high-performance, persistent graph database that scales to billions of quads
 * [Apache Jena](https://jena.apache.org/) - open source Java framework for building Semantic Web and Linked Data applications
 * [Apache Marmotta](https://marmotta.apache.org/) - (retired Apache project) an open platform for linked data
@@ -77,7 +77,7 @@
 
 ### Graph Visualization
 
-* [AntV G6](https://github.com/antvis/g6) ⭐ 12,270 | 🐛 332 | 🌐 TypeScript | 📅 2026-07-15 - Simple, easy and complete high performance graph visualization engine written in JavaScript, from Ant Financial
+* [AntV G6](https://github.com/antvis/g6) ⭐ 12,272 | 🐛 333 | 🌐 TypeScript | 📅 2026-07-15 - Simple, easy and complete high performance graph visualization engine written in JavaScript, from Ant Financial
 * [Graphistry](https://github.com/graphistry/pygraphistry) ⭐ 2,551 | 🐛 360 | 🌐 Python | 📅 2026-08-21 - An end-to-end GPU visual graph analytics engine (Nvidia RAPIDS.ai / Apache Arrow) with interfaces including JS/React, Python (Jupyter/StreamLit), REST, rich no-code/low-code UIs for various databases, and self + cloud hosting, from Graphistry.
 * [Gephi](https://gephi.org/) - Graph visualization platform software runs on Windows, Mac and Linux.
 * [KeyLines & ReGraph](https://cambridge-intelligence.com/) - Graph visualization tookits for JavaScript and React developer from Cambridge Intelligence.
@@ -131,6 +131,7 @@
 
 ### General
 
+* [YAGO](http://yago-knowledge.org/) - A huge semantic knowledge base, derived from [Wikipedia](http://en.wikipedia.org/),  [WordNet](http://wordnet.princeton.edu/) and [GeoNames](http://www.geonames.org/). Currently, YAGO has knowledge of more than 10 million entities (like persons, organizations, cities, etc.) and contains more than 120 million facts about these entities. The source code of YAGO is in this Github [repo](https://github.com/yago-naga/yago3) ⭐ 755 | 🐛 7 | 🌐 Java | 📅 2022-07-05.
 * [BabelNet](https://babelnet.org/) - Both a **multilingual encyclopedic dictionary**, with lexicographic and encyclopedic coverage of terms, and a **semantic network** which connects concepts and named entities in a very large network of semantic relations, made up of about 16 million entries, called Babel synsets. Each Babel synset represents a given meaning and contains all the synonyms which express that meaning in a range of different languages.
 * [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page) - Wikidata is a free, collaborative, multilingual, secondary database, collecting structured data to provide support for Wikipedia, Wikimedia Commons, the other wikis of the Wikimedia movement, and to anyone in the world.
 * [Google Knowledge Graph](https://developers.google.com/knowledge-graph/) - Google’s Knowledge Graph has millions of entries that describe real-world entities like people, places, and things.
@@ -138,7 +139,6 @@
 * [DBpedia](https://wiki.dbpedia.org/) - DBpedia is a crowd-sourced community effort to extract structured content from the information created in various Wikimedia projects.
 * [XLore](https://xlore.org/) - A large-scale English-Chinese bilingual knowledge graph by structuring and integrating Chinese Wikipedia, English Wikipedia, French Wikipedia, and Baidu Baike.
 * [The GDELT Project](https://www.gdeltproject.org/) - The GDELT Project monitors the world's broadcast, print, and web news from nearly every corner of every country in over 100 languages and identifies the people, locations, organizations, themes, sources, emotions, counts, quotes, images and events driving our global society  every second of every day, creating a free open platform for computing on the entire world.
-* [YAGO](http://yago-knowledge.org/) - A huge semantic knowledge base, derived from [Wikipedia](http://en.wikipedia.org/),  [WordNet](http://wordnet.princeton.edu/) and [GeoNames](http://www.geonames.org/). Currently, YAGO has knowledge of more than 10 million entities (like persons, organizations, cities, etc.) and contains more than 120 million facts about these entities. The source code of YAGO is in this Github [repo](https://github.com/yago-naga/yago3) ⭐ 755 | 🐛 7 | 🌐 Java | 📅 2022-07-05.
 * [Zhishi.me](http://zhishi.me/) - Knowledge Graph data extracted from the largest Chinese encyclopedias,  [Baidu Baike](https://baike.baidu.com/), [Hudong Baike](https://www.baike.com/) and [Chinese Wikipedia](https://zh.wikipedia.org/).
 * [NELL](http://rtw.ml.cmu.edu/rtw/) - Never-Ending Language Learner, read the web and extract facts from text found in web pages continuously and improve itself.
 * [Golden Protocol](https://golden.xyz/) - A decentralized canonical knowledge graph. It is open, transparent, consensus, bounty enabled and built in the age of Web 3.
@@ -206,4 +206,4 @@ To the extent possible under law, Sitao Z. has waived all copyright and related 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
