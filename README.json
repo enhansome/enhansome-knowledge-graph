@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-17T21:06:26Z",
                 "owner": "cayleygraph",
                 "repo": "cayley",
-                "stars": 15060
+                "stars": 15061
               }
             },
             {
@@ -59,7 +59,7 @@
                 "archived": false,
                 "id": 693555515,
                 "language": "Java",
-                "last_commit": "2026-08-25T05:55:12Z",
+                "last_commit": "2026-08-25T17:58:20Z",
                 "owner": "hugegraph",
                 "repo": "hugegraph",
                 "stars": 26
@@ -84,7 +84,7 @@
                 "last_commit": "2026-08-24T19:22:27Z",
                 "owner": "oxigraph",
                 "repo": "oxigraph",
-                "stars": 1834
+                "stars": 1836
               }
             },
             {
@@ -99,7 +99,7 @@
                 "last_commit": "2026-08-22T14:33:05Z",
                 "owner": "ad-freiburg",
                 "repo": "qlever",
-                "stars": 884
+                "stars": 886
               }
             }
           ],
@@ -158,7 +158,7 @@
                 "last_commit": "2026-07-15T06:02:05Z",
                 "owner": "antvis",
                 "repo": "G6",
-                "stars": 12272
+                "stars": 12271
               }
             },
             {
@@ -260,7 +260,7 @@
                 "last_commit": "2025-07-29T00:18:20Z",
                 "owner": "dedupeio",
                 "repo": "dedupe",
-                "stars": 4505
+                "stars": 4506
               }
             },
             {
@@ -357,7 +357,7 @@
             "last_commit": "2021-03-11T11:20:57Z",
             "owner": "husthuke",
             "repo": "awesome-knowledge-graph",
-            "stars": 5149
+            "stars": 5148
           }
         },
         {
@@ -380,7 +380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:59:30.024Z",
+    "last_updated": "2026-08-25T20:50:20.696Z",
     "original_repository": "totogo/awesome-knowledge-graph",
     "original_repository_id": 168928820,
     "original_repository_sha": "63253666f76cc266a3fc1252fa855b82c7044329",
