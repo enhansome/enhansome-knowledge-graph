@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 20537104,
                 "language": "Go",
-                "last_commit": "2026-08-17T21:06:26Z",
+                "last_commit": "2026-08-27T10:33:26Z",
                 "owner": "cayleygraph",
                 "repo": "cayley",
                 "stars": 15062
@@ -84,7 +84,7 @@
                 "last_commit": "2026-08-26T18:37:50Z",
                 "owner": "oxigraph",
                 "repo": "oxigraph",
-                "stars": 1842
+                "stars": 1844
               }
             },
             {
@@ -96,7 +96,7 @@
                 "archived": false,
                 "id": 27594187,
                 "language": "C++",
-                "last_commit": "2026-08-26T23:34:49Z",
+                "last_commit": "2026-08-27T09:42:41Z",
                 "owner": "ad-freiburg",
                 "repo": "qlever",
                 "stars": 887
@@ -170,7 +170,7 @@
                 "archived": false,
                 "id": 36759907,
                 "language": "Python",
-                "last_commit": "2026-08-21T13:42:38Z",
+                "last_commit": "2026-08-27T11:15:35Z",
                 "owner": "graphistry",
                 "repo": "pygraphistry",
                 "stars": 2551
@@ -214,7 +214,7 @@
                 "archived": false,
                 "id": 36759907,
                 "language": "Python",
-                "last_commit": "2026-08-21T13:42:38Z",
+                "last_commit": "2026-08-27T11:15:35Z",
                 "owner": "graphistry",
                 "repo": "pygraphistry",
                 "stars": 2551
@@ -260,7 +260,7 @@
                 "last_commit": "2025-07-29T00:18:20Z",
                 "owner": "dedupeio",
                 "repo": "dedupe",
-                "stars": 4507
+                "stars": 4508
               }
             },
             {
@@ -357,7 +357,7 @@
             "last_commit": "2021-03-11T11:20:57Z",
             "owner": "husthuke",
             "repo": "awesome-knowledge-graph",
-            "stars": 5147
+            "stars": 5149
           }
         },
         {
@@ -380,9 +380,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T23:44:56.540Z",
-    "original_repository": "totogo/awesome-knowledge-graph",
-    "original_repository_id": 168928820,
+    "last_updated": "2026-08-27T11:46:38.158Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 168928820,
+      "language": null,
+      "last_commit": "2026-02-28T05:57:39Z",
+      "owner": "totogo",
+      "repo": "awesome-knowledge-graph",
+      "stars": 1885
+    },
     "original_repository_sha": "63253666f76cc266a3fc1252fa855b82c7044329",
     "enhanced_repository": "enhansome/enhansome-knowledge-graph",
     "enhanced_repository_description": null,
