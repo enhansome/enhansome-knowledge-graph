@@ -54,8 +54,8 @@
 
 ### Triple Stores
 
-* [Oxigraph](https://github.com/oxigraph/oxigraph) ⭐ 1,844 | 🐛 148 | 🌐 Rust | 📅 2026-08-26 - a light wight triple store written in Rust.
-* [CLever](https://github.com/ad-freiburg/qlever) ⭐ 887 | 🐛 391 | 🌐 C++ | 📅 2026-08-27 - a SPARQL engine that can efficiently index and query very large knowledge graphs with over 100 billion triples on a single standard PC or server
+* [Oxigraph](https://github.com/oxigraph/oxigraph) ⭐ 1,844 | 🐛 147 | 🌐 Rust | 📅 2026-08-27 - a light wight triple store written in Rust.
+* [CLever](https://github.com/ad-freiburg/qlever) ⭐ 889 | 🐛 403 | 🌐 C++ | 📅 2026-08-28 - a SPARQL engine that can efficiently index and query very large knowledge graphs with over 100 billion triples on a single standard PC or server
 * [AllegroGraph](https://franz.com/agraph/allegrograph/) - high-performance, persistent graph database that scales to billions of quads
 * [Apache Jena](https://jena.apache.org/) - open source Java framework for building Semantic Web and Linked Data applications
 * [Apache Marmotta](https://marmotta.apache.org/) - (retired Apache project) an open platform for linked data
@@ -77,8 +77,8 @@
 
 ### Graph Visualization
 
-* [AntV G6](https://github.com/antvis/g6) ⭐ 12,272 | 🐛 333 | 🌐 TypeScript | 📅 2026-07-15 - Simple, easy and complete high performance graph visualization engine written in JavaScript, from Ant Financial
-* [Graphistry](https://github.com/graphistry/pygraphistry) ⭐ 2,551 | 🐛 356 | 🌐 Python | 📅 2026-08-27 - An end-to-end GPU visual graph analytics engine (Nvidia RAPIDS.ai / Apache Arrow) with interfaces including JS/React, Python (Jupyter/StreamLit), REST, rich no-code/low-code UIs for various databases, and self + cloud hosting, from Graphistry.
+* [AntV G6](https://github.com/antvis/g6) ⭐ 12,271 | 🐛 333 | 🌐 TypeScript | 📅 2026-07-15 - Simple, easy and complete high performance graph visualization engine written in JavaScript, from Ant Financial
+* [Graphistry](https://github.com/graphistry/pygraphistry) ⭐ 2,551 | 🐛 356 | 🌐 Python | 📅 2026-08-28 - An end-to-end GPU visual graph analytics engine (Nvidia RAPIDS.ai / Apache Arrow) with interfaces including JS/React, Python (Jupyter/StreamLit), REST, rich no-code/low-code UIs for various databases, and self + cloud hosting, from Graphistry.
 * [Gephi](https://gephi.org/) - Graph visualization platform software runs on Windows, Mac and Linux.
 * [KeyLines & ReGraph](https://cambridge-intelligence.com/) - Graph visualization tookits for JavaScript and React developer from Cambridge Intelligence.
 * [Linkurious](https://linkurio.us) - Linkurious is an enterprise ready on-premises graph visualization and analysis platform.
@@ -103,7 +103,7 @@
 
 ### Managed Hosting Services
 
-* [Graphistry](https://github.com/graphistry/pygraphistry) ⭐ 2,551 | 🐛 356 | 🌐 Python | 📅 2026-08-27 - Cloud accounts for Graphistry end-to-end GPU-accelerated visual graph analytics projects
+* [Graphistry](https://github.com/graphistry/pygraphistry) ⭐ 2,551 | 🐛 356 | 🌐 Python | 📅 2026-08-28 - Cloud accounts for Graphistry end-to-end GPU-accelerated visual graph analytics projects
 * [JanusGraph @ Amazon Web Services Labs](https://github.com/awslabs/dynamodb-janusgraph-storage-backend) ⚠️ Archived - The Amazon DynamoDB Storage Backend for JanusGraph
 * [CosmosDB @ Microsoft](https://docs.microsoft.com/en-us/azure/cosmos-db/graph-introduction) - Azure Cosmos DB is Microsoft's globally distributed, multi-model (Key-value, Document, Column, Graph) database service.
 * [JanusGraph @ IBM Compose](https://www.compose.com/databases/janusgraph)
@@ -124,7 +124,7 @@
 
 ### Knowledge Fusion
 
-* [Dedupe](https://github.com/dedupeio/dedupe) ⭐ 4,508 | 🐛 91 | 🌐 Python | 📅 2025-07-29 - dedupe is a python library that uses machine learning to perform fuzzy matching, deduplication and entity resolution quickly on structured data.
+* [Dedupe](https://github.com/dedupeio/dedupe) ⭐ 4,509 | 🐛 91 | 🌐 Python | 📅 2025-07-29 - dedupe is a python library that uses machine learning to perform fuzzy matching, deduplication and entity resolution quickly on structured data.
 * [LIMES](https://github.com/dice-group/LIMES) ⭐ 133 | 🐛 50 | 🌐 JavaScript | 📅 2025-09-16 - Link Discovery Framework for Metric Spaces.
 
 ## Knowledge Graph Dataset
@@ -174,7 +174,7 @@
 
 ### Community Effort
 
-* [Graph Book](https://github.com/krlawrence/graph) ⭐ 865 | 🐛 17 | 🌐 Ruby | 📅 2026-02-26 - TinkerPop3 centric book written by [Kelvin R. Lawrence](https://twitter.com/gfxman)
+* [Graph Book](https://github.com/krlawrence/graph) ⭐ 865 | 🐛 17 | 🌐 Ruby | 📅 2026-08-27 - TinkerPop3 centric book written by [Kelvin R. Lawrence](https://twitter.com/gfxman)
 * [SQL2Gremlin](http://sql2gremlin.com/) - transition from SQL to Gremlin by [Daniel Kuppitz](https://twitter.com/dkuppitz)
 * [The Gremlin Compendium](http://www.doanduyhai.com/blog/?p=13460) - minimum survival kit for any Gremlin user, 10 blog post series by [Doan DuyHai](https://twitter.com/doanduyhai)
 
@@ -206,4 +206,4 @@ To the extent possible under law, Sitao Z. has waived all copyright and related 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
