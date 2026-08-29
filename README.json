@@ -12,12 +12,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open-source graph database",
+                "homepage": "https://cayley.io",
                 "id": 20537104,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T10:33:26Z",
+                "open_issues": 93,
                 "owner": "cayleygraph",
                 "repo": "cayley",
-                "stars": 15063
+                "stars": 15063,
+                "topics": [
+                  "cayley",
+                  "go",
+                  "graph",
+                  "graph-database",
+                  "linked-data"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.486Z"
             },
@@ -28,12 +39,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Blazegraph High Performance Graph Database",
+                "homepage": null,
                 "id": 48451041,
                 "language": "Java",
+                "license": "GPL-2.0",
                 "last_commit": "2023-04-16T22:22:56Z",
+                "open_issues": 166,
                 "owner": "blazegraph",
                 "repo": "database",
-                "stars": 989
+                "stars": 989,
+                "topics": [
+                  "blazegraph",
+                  "graph-database",
+                  "rdf",
+                  "sparql",
+                  "tinkerpop"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.486Z"
             },
@@ -44,12 +66,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "The Metaweb graph repository server",
+                "homepage": null,
                 "id": 147865986,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2020-07-09T18:57:18Z",
+                "open_issues": 3,
                 "owner": "googlearchive",
                 "repo": "graphd",
-                "stars": 452
+                "stars": 452,
+                "topics": [
+                  "graph-database"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.486Z"
             },
@@ -60,12 +89,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A graph database that supports more than 100+ billion data, high performance and scalability (Include OLTP Engine & REST-API & Backends)",
+                "homepage": "https://hugegraph.apache.org",
                 "id": 693555515,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T20:55:18Z",
+                "open_issues": 32,
                 "owner": "hugegraph",
                 "repo": "hugegraph",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.486Z"
             }
@@ -83,12 +117,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SPARQL graph database",
+                "homepage": null,
                 "id": 133687025,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T20:08:44Z",
+                "open_issues": 147,
                 "owner": "oxigraph",
                 "repo": "oxigraph",
-                "stars": 1847
+                "stars": 1847,
+                "topics": [
+                  "graph-database",
+                  "rdf-store",
+                  "sparql"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.486Z"
             },
@@ -99,12 +142,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Graph database implementing the RDF and SPARQL standards. Very fast and scales to more than a trillion triples on a single commodity machine",
+                "homepage": null,
                 "id": 27594187,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T13:59:13Z",
+                "open_issues": 401,
                 "owner": "ad-freiburg",
                 "repo": "qlever",
-                "stars": 889
+                "stars": 889,
+                "topics": [
+                  "query-engine",
+                  "semantic-search-engine",
+                  "sparql",
+                  "sparql-endpoints",
+                  "text-search"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.486Z"
             }
@@ -122,12 +176,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "腾讯高性能分布式图计算框架Plato",
+                "homepage": null,
                 "id": 220415098,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2021-08-14T05:54:28Z",
+                "open_issues": 35,
                 "owner": "Tencent",
                 "repo": "plato",
-                "stars": 1911
+                "stars": 1911,
+                "topics": [
+                  "graph-computing",
+                  "plato"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.486Z"
             },
@@ -138,12 +200,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Distributed Temporal Graph Analytics with Apache Flink",
+                "homepage": "https://github.com/dbs-leipzig/gradoop",
                 "id": 26323526,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-11T23:35:05Z",
+                "open_issues": 86,
                 "owner": "dbs-leipzig",
                 "repo": "gradoop",
-                "stars": 251
+                "stars": 251,
+                "topics": [
+                  "apache-flink",
+                  "distributed-graph-analytics",
+                  "graph",
+                  "graph-mining",
+                  "pattern-matching",
+                  "property-graph",
+                  "temporal-graph"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.486Z"
             }
@@ -161,12 +236,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "♾ A Graph Visualization Framework in JavaScript.",
+                "homepage": "https://g6.antv.antgroup.com/",
                 "id": 81810486,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-15T06:02:05Z",
+                "open_issues": 333,
                 "owner": "antvis",
                 "repo": "G6",
-                "stars": 12274
+                "stars": 12274,
+                "topics": [
+                  "data-visualization",
+                  "graph",
+                  "graph-analytics",
+                  "graph-drawing",
+                  "graph-visualization",
+                  "hacktoberfest",
+                  "network",
+                  "tree",
+                  "visual-analytics",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.486Z"
             },
@@ -177,12 +268,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyGraphistry is a Python library to quickly load, shape, embed, and explore big graphs with the GPU-accelerated Graphistry visual graph analyzer",
+                "homepage": null,
                 "id": 36759907,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T16:01:02Z",
+                "open_issues": 351,
                 "owner": "graphistry",
                 "repo": "pygraphistry",
-                "stars": 2551
+                "stars": 2551,
+                "topics": [
+                  "csv",
+                  "cudf",
+                  "cugraph",
+                  "gpu",
+                  "graph",
+                  "graph-visualization",
+                  "graphistry",
+                  "igraph",
+                  "jupyter",
+                  "neo4j",
+                  "network-analysis",
+                  "network-visualization",
+                  "networkx",
+                  "pandas",
+                  "python",
+                  "rapids",
+                  "splunk",
+                  "tigergraph",
+                  "visualization",
+                  "webgl"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.486Z"
             }
@@ -200,12 +317,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Powerful RDF Knowledge Graph Generation with RML Mappings",
+                "homepage": "https://morph-kgc.readthedocs.io",
                 "id": 311956260,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-28T21:09:30Z",
+                "open_issues": 30,
                 "owner": "morph-kgc",
                 "repo": "morph-kgc",
-                "stars": 289
+                "stars": 289,
+                "topics": [
+                  "data-engineering",
+                  "data-integration",
+                  "database",
+                  "etl",
+                  "knowledge-graph",
+                  "python",
+                  "r2rml",
+                  "rdf",
+                  "rdf-star",
+                  "rml"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.486Z"
             }
@@ -223,12 +356,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyGraphistry is a Python library to quickly load, shape, embed, and explore big graphs with the GPU-accelerated Graphistry visual graph analyzer",
+                "homepage": null,
                 "id": 36759907,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T16:01:02Z",
+                "open_issues": 351,
                 "owner": "graphistry",
                 "repo": "pygraphistry",
-                "stars": 2551
+                "stars": 2551,
+                "topics": [
+                  "csv",
+                  "cudf",
+                  "cugraph",
+                  "gpu",
+                  "graph",
+                  "graph-visualization",
+                  "graphistry",
+                  "igraph",
+                  "jupyter",
+                  "neo4j",
+                  "network-analysis",
+                  "network-visualization",
+                  "networkx",
+                  "pandas",
+                  "python",
+                  "rapids",
+                  "splunk",
+                  "tigergraph",
+                  "visualization",
+                  "webgl"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.486Z"
             },
@@ -239,12 +398,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "The Amazon DynamoDB Storage Backend for JanusGraph",
+                "homepage": null,
                 "id": 41064139,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2021-08-30T17:36:09Z",
+                "open_issues": 54,
                 "owner": "amazon-archives",
                 "repo": "dynamodb-janusgraph-storage-backend",
-                "stars": 446
+                "stars": 446,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.486Z"
             }
@@ -268,12 +432,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":id: A python library for accurate and scalable fuzzy matching, record deduplication and entity-resolution.",
+                "homepage": "https://docs.dedupe.io",
                 "id": 4087724,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-07-29T00:18:20Z",
+                "open_issues": 91,
                 "owner": "dedupeio",
                 "repo": "dedupe",
-                "stars": 4509
+                "stars": 4509,
+                "topics": [
+                  "clustering",
+                  "datamade",
+                  "de-duplicating",
+                  "dedupe",
+                  "dedupe-library",
+                  "entity-resolution",
+                  "python",
+                  "python-library",
+                  "record-linkage"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.486Z"
             },
@@ -284,12 +463,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Link Discovery Framework for Metric Spaces.",
+                "homepage": "https://limes.demos.dice-research.org/",
                 "id": 42576588,
                 "language": "JavaScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-09-16T14:09:14Z",
+                "open_issues": 50,
                 "owner": "dice-group",
                 "repo": "LIMES",
-                "stars": 133
+                "stars": 133,
+                "topics": [
+                  "artificial-intelligence",
+                  "linked-data",
+                  "machine-learning",
+                  "optimization",
+                  "rdf",
+                  "record-linkage",
+                  "scalability",
+                  "semantic-web"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.486Z"
             }
@@ -313,12 +506,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "YAGO is a large semantic knowledge base, derived from Wikipedia, WordNet, WikiData, GeoNames, and other data sources",
+                "homepage": "https://yago-knowledge.org/downloads/yago-3",
                 "id": 101759376,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2022-07-05T09:54:51Z",
+                "open_issues": 7,
                 "owner": "yago-naga",
                 "repo": "yago3",
-                "stars": 755
+                "stars": 755,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.486Z"
             }
@@ -342,12 +540,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Practical Gremlin - An Apache TinkerPop Tutorial",
+                "homepage": null,
                 "id": 105672026,
                 "language": "Ruby",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T17:11:05Z",
+                "open_issues": 17,
                 "owner": "krlawrence",
                 "repo": "graph",
-                "stars": 865
+                "stars": 865,
+                "topics": [
+                  "air-routes",
+                  "graph",
+                  "graph-database",
+                  "graphml",
+                  "gremlin",
+                  "gremlin-console",
+                  "gremlin-graph-guide",
+                  "practical-gremlin",
+                  "tinkerpop"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.486Z"
             }
@@ -369,12 +582,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "整理知识图谱相关学习资料",
+            "homepage": null,
             "id": 149130115,
             "language": null,
+            "license": null,
             "last_commit": "2021-03-11T11:20:57Z",
+            "open_issues": 8,
             "owner": "husthuke",
             "repo": "awesome-knowledge-graph",
-            "stars": 5150
+            "stars": 5150,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.486Z"
         },
@@ -385,12 +603,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of resources for graph databases and graph computing tools",
+            "homepage": null,
             "id": 106101654,
             "language": null,
+            "license": null,
             "last_commit": "2026-02-26T11:03:59Z",
+            "open_issues": 17,
             "owner": "jbmusso",
             "repo": "awesome-graph",
-            "stars": 1268
+            "stars": 1268,
+            "topics": [
+              "graph",
+              "graph-computing",
+              "graph-database",
+              "graphdb",
+              "olap",
+              "oltp"
+            ]
           },
           "first_seen": "2026-08-28T04:23:28.486Z"
         }
@@ -399,15 +629,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:50:46.801Z",
+    "last_updated": "2026-08-29T04:27:06.658Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of Knowledge Graph related learning materials, databases, tools and other resources",
+      "homepage": null,
       "id": 168928820,
       "language": null,
+      "license": null,
       "last_commit": "2026-02-28T05:57:39Z",
+      "open_issues": 23,
       "owner": "totogo",
       "repo": "awesome-knowledge-graph",
-      "stars": 1885
+      "stars": 1885,
+      "topics": [
+        "awesome-list",
+        "graph",
+        "graph-database",
+        "knowledge-graph",
+        "nlp"
+      ]
     },
     "original_repository_sha": "63253666f76cc266a3fc1252fa855b82c7044329",
     "enhanced_repository": "enhansome/enhansome-knowledge-graph",
