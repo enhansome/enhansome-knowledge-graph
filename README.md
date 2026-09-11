@@ -29,7 +29,7 @@
 * [Cayley](https://github.com/cayleygraph/cayley) ⭐ 15,061 | 🐛 93 | 🌐 Go | 📅 2026-08-27 - open source database written in Go
 * [Blazegraph](https://github.com/blazegraph/database) ⚠️ Archived - GPU accelerated graph database
 * [Graphd](https://github.com/google/graphd) ⚠️ Archived - the Metaweb/Freebase Graph Repository
-* [HugeGraph](https://github.com/hugegraph/hugegraph) ⭐ 27 | 🐛 39 | 🌐 Java | 📅 2026-09-10 - An open source TinkerPop 3 compliant OLTP Graph Database with pluggable storage bakcend which is similar to JanusGraph. It also supports OLAP through Spark GraphX.
+* [HugeGraph](https://github.com/hugegraph/hugegraph) ⭐ 27 | 🐛 39 | 🌐 Java | 📅 2026-09-11 - An open source TinkerPop 3 compliant OLTP Graph Database with pluggable storage bakcend which is similar to JanusGraph. It also supports OLAP through Spark GraphX.
 * [AgensGraph](https://bitnine.net/agensgraph/) - multi-model graph database with SQL and Cypher support based on PostgreSQL
 * [ArangoDB](https://www.arangodb.com/) - highly available Multi-Model NoSQL database
 * [ArcadeDB](https://arcadedb.com/) - open-source multi-model database with graph, document and key-value support, ACID transactions, SQL and Cypher query languages
@@ -54,8 +54,8 @@
 
 ### Triple Stores
 
-* [Oxigraph](https://github.com/oxigraph/oxigraph) ⭐ 1,875 | 🐛 149 | 🌐 Rust | 📅 2026-09-10 - a light wight triple store written in Rust.
-* [CLever](https://github.com/ad-freiburg/qlever) ⭐ 897 | 🐛 413 | 🌐 C++ | 📅 2026-09-10 - a SPARQL engine that can efficiently index and query very large knowledge graphs with over 100 billion triples on a single standard PC or server
+* [Oxigraph](https://github.com/oxigraph/oxigraph) ⭐ 1,877 | 🐛 150 | 🌐 Rust | 📅 2026-09-11 - a light wight triple store written in Rust.
+* [CLever](https://github.com/ad-freiburg/qlever) ⭐ 898 | 🐛 409 | 🌐 C++ | 📅 2026-09-11 - a SPARQL engine that can efficiently index and query very large knowledge graphs with over 100 billion triples on a single standard PC or server
 * [AllegroGraph](https://franz.com/agraph/allegrograph/) - high-performance, persistent graph database that scales to billions of quads
 * [Apache Jena](https://jena.apache.org/) - open source Java framework for building Semantic Web and Linked Data applications
 * [Apache Marmotta](https://marmotta.apache.org/) - (retired Apache project) an open platform for linked data
@@ -77,8 +77,8 @@
 
 ### Graph Visualization
 
-* [AntV G6](https://github.com/antvis/g6) ⭐ 12,290 | 🐛 333 | 🌐 TypeScript | 📅 2026-07-15 - Simple, easy and complete high performance graph visualization engine written in JavaScript, from Ant Financial
-* [Graphistry](https://github.com/graphistry/pygraphistry) ⭐ 2,554 | 🐛 372 | 🌐 Python | 📅 2026-09-10 - An end-to-end GPU visual graph analytics engine (Nvidia RAPIDS.ai / Apache Arrow) with interfaces including JS/React, Python (Jupyter/StreamLit), REST, rich no-code/low-code UIs for various databases, and self + cloud hosting, from Graphistry.
+* [AntV G6](https://github.com/antvis/g6) ⭐ 12,291 | 🐛 333 | 🌐 TypeScript | 📅 2026-07-15 - Simple, easy and complete high performance graph visualization engine written in JavaScript, from Ant Financial
+* [Graphistry](https://github.com/graphistry/pygraphistry) ⭐ 2,555 | 🐛 372 | 🌐 Python | 📅 2026-09-10 - An end-to-end GPU visual graph analytics engine (Nvidia RAPIDS.ai / Apache Arrow) with interfaces including JS/React, Python (Jupyter/StreamLit), REST, rich no-code/low-code UIs for various databases, and self + cloud hosting, from Graphistry.
 * [Gephi](https://gephi.org/) - Graph visualization platform software runs on Windows, Mac and Linux.
 * [KeyLines & ReGraph](https://cambridge-intelligence.com/) - Graph visualization tookits for JavaScript and React developer from Cambridge Intelligence.
 * [Linkurious](https://linkurio.us) - Linkurious is an enterprise ready on-premises graph visualization and analysis platform.
@@ -88,7 +88,7 @@
 
 ### Graph Construction
 
-* [Morph-KGC](https://github.com/morph-kgc/morph-kgc/) ⭐ 289 | 🐛 30 | 🌐 Python | 📅 2026-06-28 - Knowledge graph generation system with RML mappings.
+* [Morph-KGC](https://github.com/morph-kgc/morph-kgc/) ⭐ 290 | 🐛 30 | 🌐 Python | 📅 2026-06-28 - Knowledge graph generation system with RML mappings.
 * [Ontop](https://ontop-vkg.org/) - A Virtual Knowledge Graph engine for querying SQL data sources and transform SQL data sources through  R2RML mappings.
 * [Ontopic Studio](https://ontopic.ai/en/ontopic-studio/) - A commercially supported no code software for creating and maintaining large sets of R2RML mappings.
 * [Termboard](https://termboard.com/) - A very simple graphical editor to create Terms and Relations. It can use ChatGPT, Google Bard or any other chatbot. Ideal for beginners wanting to make and share quick sketches.
@@ -103,7 +103,7 @@
 
 ### Managed Hosting Services
 
-* [Graphistry](https://github.com/graphistry/pygraphistry) ⭐ 2,554 | 🐛 372 | 🌐 Python | 📅 2026-09-10 - Cloud accounts for Graphistry end-to-end GPU-accelerated visual graph analytics projects
+* [Graphistry](https://github.com/graphistry/pygraphistry) ⭐ 2,555 | 🐛 372 | 🌐 Python | 📅 2026-09-10 - Cloud accounts for Graphistry end-to-end GPU-accelerated visual graph analytics projects
 * [JanusGraph @ Amazon Web Services Labs](https://github.com/awslabs/dynamodb-janusgraph-storage-backend) ⚠️ Archived - The Amazon DynamoDB Storage Backend for JanusGraph
 * [CosmosDB @ Microsoft](https://docs.microsoft.com/en-us/azure/cosmos-db/graph-introduction) - Azure Cosmos DB is Microsoft's globally distributed, multi-model (Key-value, Document, Column, Graph) database service.
 * [JanusGraph @ IBM Compose](https://www.compose.com/databases/janusgraph)
@@ -131,7 +131,6 @@
 
 ### General
 
-* [YAGO](http://yago-knowledge.org/) - A huge semantic knowledge base, derived from [Wikipedia](http://en.wikipedia.org/),  [WordNet](http://wordnet.princeton.edu/) and [GeoNames](http://www.geonames.org/). Currently, YAGO has knowledge of more than 10 million entities (like persons, organizations, cities, etc.) and contains more than 120 million facts about these entities. The source code of YAGO is in this Github [repo](https://github.com/yago-naga/yago3) ⭐ 755 | 🐛 7 | 🌐 Java | 📅 2022-07-05.
 * [BabelNet](https://babelnet.org/) - Both a **multilingual encyclopedic dictionary**, with lexicographic and encyclopedic coverage of terms, and a **semantic network** which connects concepts and named entities in a very large network of semantic relations, made up of about 16 million entries, called Babel synsets. Each Babel synset represents a given meaning and contains all the synonyms which express that meaning in a range of different languages.
 * [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page) - Wikidata is a free, collaborative, multilingual, secondary database, collecting structured data to provide support for Wikipedia, Wikimedia Commons, the other wikis of the Wikimedia movement, and to anyone in the world.
 * [Google Knowledge Graph](https://developers.google.com/knowledge-graph/) - Google’s Knowledge Graph has millions of entries that describe real-world entities like people, places, and things.
@@ -139,6 +138,7 @@
 * [DBpedia](https://wiki.dbpedia.org/) - DBpedia is a crowd-sourced community effort to extract structured content from the information created in various Wikimedia projects.
 * [XLore](https://xlore.org/) - A large-scale English-Chinese bilingual knowledge graph by structuring and integrating Chinese Wikipedia, English Wikipedia, French Wikipedia, and Baidu Baike.
 * [The GDELT Project](https://www.gdeltproject.org/) - The GDELT Project monitors the world's broadcast, print, and web news from nearly every corner of every country in over 100 languages and identifies the people, locations, organizations, themes, sources, emotions, counts, quotes, images and events driving our global society  every second of every day, creating a free open platform for computing on the entire world.
+* [YAGO](http://yago-knowledge.org/) - A huge semantic knowledge base, derived from [Wikipedia](http://en.wikipedia.org/),  [WordNet](http://wordnet.princeton.edu/) and [GeoNames](http://www.geonames.org/). Currently, YAGO has knowledge of more than 10 million entities (like persons, organizations, cities, etc.) and contains more than 120 million facts about these entities. The source code of YAGO is in this Github [repo](https://github.com/yago-naga/yago3) ⭐ 755 | 🐛 7 | 🌐 Java | 📅 2022-07-05.
 * [Zhishi.me](http://zhishi.me/) - Knowledge Graph data extracted from the largest Chinese encyclopedias,  [Baidu Baike](https://baike.baidu.com/), [Hudong Baike](https://www.baike.com/) and [Chinese Wikipedia](https://zh.wikipedia.org/).
 * [NELL](http://rtw.ml.cmu.edu/rtw/) - Never-Ending Language Learner, read the web and extract facts from text found in web pages continuously and improve itself.
 * [Golden Protocol](https://golden.xyz/) - A decentralized canonical knowledge graph. It is open, transparent, consensus, bounty enabled and built in the age of Web 3.
@@ -174,7 +174,8 @@
 
 ### Community Effort
 
-* [Graph Book](https://github.com/krlawrence/graph) ⭐ 864 | 🐛 17 | 🌐 Ruby | 📅 2026-09-08 - TinkerPop3 centric book written by [Kelvin R. Lawrence](https://twitter.com/gfxman)
+* [Graph Book](https://github.com/krlawrence/graph) ⭐ 865 | 🐛 17 | 🌐 Ruby | 📅 2026-09-08 - TinkerPop3 centric book written by [Kelvin R. Lawrence](https://twitter.com/gfxman)
+* [Ontology Training](https://tesseract.academy/courses/ontology-training-knowledge-graphs-complete-course/) - free 45-lesson course on RDF, OWL 2, SPARQL and SHACL, with the syllabus published as machine-readable RDF at [ontology-curriculum](https://github.com/fabio-rovai/ontology-curriculum) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-08-25
 * [SQL2Gremlin](http://sql2gremlin.com/) - transition from SQL to Gremlin by [Daniel Kuppitz](https://twitter.com/dkuppitz)
 * [The Gremlin Compendium](http://www.doanduyhai.com/blog/?p=13460) - minimum survival kit for any Gremlin user, 10 blog post series by [Doan DuyHai](https://twitter.com/doanduyhai)
 
@@ -206,4 +207,4 @@ To the extent possible under law, Sitao Z. has waived all copyright and related 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._

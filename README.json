@@ -94,7 +94,7 @@
                 "id": 693555515,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-10T11:55:55Z",
+                "last_commit": "2026-09-11T08:42:37Z",
                 "open_issues": 39,
                 "owner": "hugegraph",
                 "repo": "hugegraph",
@@ -122,11 +122,11 @@
                 "id": 133687025,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-10T18:56:20Z",
-                "open_issues": 149,
+                "last_commit": "2026-09-11T20:13:30Z",
+                "open_issues": 150,
                 "owner": "oxigraph",
                 "repo": "oxigraph",
-                "stars": 1875,
+                "stars": 1877,
                 "topics": [
                   "graph-database",
                   "rdf-store",
@@ -147,11 +147,11 @@
                 "id": 27594187,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-10T01:50:13Z",
-                "open_issues": 413,
+                "last_commit": "2026-09-11T21:17:12Z",
+                "open_issues": 409,
                 "owner": "ad-freiburg",
                 "repo": "qlever",
-                "stars": 897,
+                "stars": 898,
                 "topics": [
                   "query-engine",
                   "semantic-search-engine",
@@ -245,7 +245,7 @@
                 "open_issues": 333,
                 "owner": "antvis",
                 "repo": "G6",
-                "stars": 12290,
+                "stars": 12291,
                 "topics": [
                   "data-visualization",
                   "graph",
@@ -277,7 +277,7 @@
                 "open_issues": 372,
                 "owner": "graphistry",
                 "repo": "pygraphistry",
-                "stars": 2554,
+                "stars": 2555,
                 "topics": [
                   "csv",
                   "cudf",
@@ -326,7 +326,7 @@
                 "open_issues": 30,
                 "owner": "morph-kgc",
                 "repo": "morph-kgc",
-                "stars": 289,
+                "stars": 290,
                 "topics": [
                   "data-engineering",
                   "data-integration",
@@ -365,7 +365,7 @@
                 "open_issues": 372,
                 "owner": "graphistry",
                 "repo": "pygraphistry",
-                "stars": 2554,
+                "stars": 2555,
                 "topics": [
                   "csv",
                   "cudf",
@@ -501,40 +501,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "YAGO",
-              "description": "A huge semantic knowledge base, derived from Wikipedia, WordNet and GeoNames. Currently, YAGO has knowledge of more than 10 million entities (like persons, organizations, cities, etc.) and contains more than 120 million facts about these entities. The source code of YAGO is in this Github repo.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "YAGO is a large semantic knowledge base, derived from Wikipedia, WordNet, WikiData, GeoNames, and other data sources",
-                "homepage": "https://yago-knowledge.org/downloads/yago-3",
-                "id": 101759376,
-                "language": "Java",
-                "license": "GPL-3.0",
-                "last_commit": "2022-07-05T09:54:51Z",
-                "open_issues": 7,
-                "owner": "yago-naga",
-                "repo": "yago3",
-                "stars": 755,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T04:23:28.486Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "General"
-        }
-      ],
-      "title": "Knowledge Graph Dataset"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "children": [
-            {
-              "node_type": "item",
               "title": "Graph Book",
               "description": "TinkerPop3 centric book written by Kelvin R. Lawrence",
               "children": [],
@@ -549,7 +515,7 @@
                 "open_issues": 17,
                 "owner": "krlawrence",
                 "repo": "graph",
-                "stars": 864,
+                "stars": 865,
                 "topics": [
                   "air-routes",
                   "graph",
@@ -563,6 +529,40 @@
                 ]
               },
               "first_seen": "2026-08-28T04:23:28.486Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Ontology Training",
+              "description": "free 45-lesson course on RDF, OWL 2, SPARQL and SHACL, with the syllabus published as machine-readable RDF at ontology-curriculum",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "An ontology engineering curriculum published as an ontology: 9 free courses, 147 lessons in OWL 2 and SKOS, each crosswalked to the standards it teaches. SHACL-gated.",
+                "homepage": null,
+                "id": 1346629332,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-25T21:28:45Z",
+                "open_issues": 0,
+                "owner": "fabio-rovai",
+                "repo": "ontology-curriculum",
+                "stars": 3,
+                "topics": [
+                  "curriculum",
+                  "free-courses",
+                  "knowledge-graph",
+                  "linked-data",
+                  "ontology",
+                  "ontology-engineering",
+                  "owl",
+                  "rdf",
+                  "semantic-web",
+                  "shacl",
+                  "skos",
+                  "sparql"
+                ]
+              },
+              "first_seen": "2026-09-11T22:39:55.024Z"
             }
           ],
           "description": null,
@@ -629,7 +629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T22:40:00.036Z",
+    "last_updated": "2026-09-11T22:39:55.024Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Knowledge Graph related learning materials, databases, tools and other resources",
@@ -637,8 +637,8 @@
       "id": 168928820,
       "language": null,
       "license": null,
-      "last_commit": "2026-02-28T05:57:39Z",
-      "open_issues": 23,
+      "last_commit": "2026-09-11T15:30:31Z",
+      "open_issues": 22,
       "owner": "totogo",
       "repo": "awesome-knowledge-graph",
       "stars": 1888,
@@ -650,7 +650,7 @@
         "nlp"
       ]
     },
-    "original_repository_sha": "63253666f76cc266a3fc1252fa855b82c7044329",
+    "original_repository_sha": "b22505546ac525845800badf03dadf80ad2cfe2c",
     "enhanced_repository": "enhansome/enhansome-knowledge-graph",
     "enhanced_repository_description": null,
     "title": "Awesome Knowledge Graph with stars"
