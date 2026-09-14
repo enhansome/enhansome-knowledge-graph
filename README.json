@@ -94,8 +94,8 @@
                 "id": 693555515,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-13T18:09:37Z",
-                "open_issues": 38,
+                "last_commit": "2026-09-14T18:24:34Z",
+                "open_issues": 39,
                 "owner": "hugegraph",
                 "repo": "hugegraph",
                 "stars": 27,
@@ -126,7 +126,7 @@
                 "open_issues": 149,
                 "owner": "oxigraph",
                 "repo": "oxigraph",
-                "stars": 1880,
+                "stars": 1882,
                 "topics": [
                   "graph-database",
                   "rdf-store",
@@ -147,11 +147,11 @@
                 "id": 27594187,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-13T21:48:01Z",
-                "open_issues": 407,
+                "last_commit": "2026-09-14T20:31:00Z",
+                "open_issues": 413,
                 "owner": "ad-freiburg",
                 "repo": "qlever",
-                "stars": 899,
+                "stars": 901,
                 "topics": [
                   "query-engine",
                   "semantic-search-engine",
@@ -185,7 +185,7 @@
                 "open_issues": 35,
                 "owner": "Tencent",
                 "repo": "plato",
-                "stars": 1911,
+                "stars": 1912,
                 "topics": [
                   "graph-computing",
                   "plato"
@@ -273,8 +273,8 @@
                 "id": 36759907,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-13T20:49:07Z",
-                "open_issues": 375,
+                "last_commit": "2026-09-14T22:41:22Z",
+                "open_issues": 373,
                 "owner": "graphistry",
                 "repo": "pygraphistry",
                 "stars": 2555,
@@ -317,7 +317,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Powerful RDF Knowledge Graph Generation with RML Mappings",
+                "description": "Powerful RDF knowledge graph generation with RML mappings",
                 "homepage": "https://morph-kgc.readthedocs.io",
                 "id": 311956260,
                 "language": "Python",
@@ -336,7 +336,6 @@
                   "python",
                   "r2rml",
                   "rdf",
-                  "rdf-star",
                   "rml"
                 ]
               },
@@ -361,8 +360,8 @@
                 "id": 36759907,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-13T20:49:07Z",
-                "open_issues": 375,
+                "last_commit": "2026-09-14T22:41:22Z",
+                "open_issues": 373,
                 "owner": "graphistry",
                 "repo": "pygraphistry",
                 "stars": 2555,
@@ -629,7 +628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T22:28:30.101Z",
+    "last_updated": "2026-09-14T23:12:29.450Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Knowledge Graph related learning materials, databases, tools and other resources",
