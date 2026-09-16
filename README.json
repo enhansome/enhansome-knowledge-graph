@@ -21,7 +21,7 @@
                 "open_issues": 93,
                 "owner": "cayleygraph",
                 "repo": "cayley",
-                "stars": 15062,
+                "stars": 15063,
                 "topics": [
                   "cayley",
                   "go",
@@ -94,8 +94,8 @@
                 "id": 693555515,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-15T10:32:22Z",
-                "open_issues": 39,
+                "last_commit": "2026-09-16T21:43:14Z",
+                "open_issues": 40,
                 "owner": "hugegraph",
                 "repo": "hugegraph",
                 "stars": 27,
@@ -126,7 +126,7 @@
                 "open_issues": 147,
                 "owner": "oxigraph",
                 "repo": "oxigraph",
-                "stars": 1883,
+                "stars": 1893,
                 "topics": [
                   "graph-database",
                   "rdf-store",
@@ -147,11 +147,11 @@
                 "id": 27594187,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-15T22:34:21Z",
-                "open_issues": 413,
+                "last_commit": "2026-09-16T22:05:02Z",
+                "open_issues": 402,
                 "owner": "ad-freiburg",
                 "repo": "qlever",
-                "stars": 901,
+                "stars": 903,
                 "topics": [
                   "query-engine",
                   "semantic-search-engine",
@@ -245,7 +245,7 @@
                 "open_issues": 333,
                 "owner": "antvis",
                 "repo": "G6",
-                "stars": 12295,
+                "stars": 12297,
                 "topics": [
                   "data-visualization",
                   "graph",
@@ -273,8 +273,8 @@
                 "id": 36759907,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-15T13:43:22Z",
-                "open_issues": 376,
+                "last_commit": "2026-09-16T07:21:52Z",
+                "open_issues": 377,
                 "owner": "graphistry",
                 "repo": "pygraphistry",
                 "stars": 2555,
@@ -360,8 +360,8 @@
                 "id": 36759907,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-15T13:43:22Z",
-                "open_issues": 376,
+                "last_commit": "2026-09-16T07:21:52Z",
+                "open_issues": 377,
                 "owner": "graphistry",
                 "repo": "pygraphistry",
                 "stars": 2555,
@@ -440,7 +440,7 @@
                 "open_issues": 92,
                 "owner": "dedupeio",
                 "repo": "dedupe",
-                "stars": 4511,
+                "stars": 4509,
                 "topics": [
                   "clustering",
                   "datamade",
@@ -590,7 +590,7 @@
             "open_issues": 8,
             "owner": "husthuke",
             "repo": "awesome-knowledge-graph",
-            "stars": 5156,
+            "stars": 5157,
             "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.486Z"
@@ -628,7 +628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T22:57:27.684Z",
+    "last_updated": "2026-09-16T23:01:51.175Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Knowledge Graph related learning materials, databases, tools and other resources",
@@ -640,7 +640,7 @@
       "open_issues": 23,
       "owner": "totogo",
       "repo": "awesome-knowledge-graph",
-      "stars": 1890,
+      "stars": 1891,
       "topics": [
         "awesome-list",
         "graph",
