@@ -94,8 +94,8 @@
                 "id": 693555515,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T15:24:23Z",
-                "open_issues": 40,
+                "last_commit": "2026-09-19T17:33:14Z",
+                "open_issues": 41,
                 "owner": "hugegraph",
                 "repo": "hugegraph",
                 "stars": 27,
@@ -123,10 +123,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-18T01:31:56Z",
-                "open_issues": 153,
+                "open_issues": 154,
                 "owner": "oxigraph",
                 "repo": "oxigraph",
-                "stars": 1917,
+                "stars": 1920,
                 "topics": [
                   "graph-database",
                   "rdf-store",
@@ -147,7 +147,7 @@
                 "id": 27594187,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T00:05:31Z",
+                "last_commit": "2026-09-19T00:29:15Z",
                 "open_issues": 402,
                 "owner": "ad-freiburg",
                 "repo": "qlever",
@@ -628,7 +628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T22:39:32.496Z",
+    "last_updated": "2026-09-19T22:21:01.681Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Knowledge Graph related learning materials, databases, tools and other resources",
