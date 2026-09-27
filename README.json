@@ -21,7 +21,7 @@
                 "open_issues": 93,
                 "owner": "cayleygraph",
                 "repo": "cayley",
-                "stars": 15069,
+                "stars": 15070,
                 "topics": [
                   "cayley",
                   "go",
@@ -94,8 +94,8 @@
                 "id": 693555515,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-26T20:50:44Z",
-                "open_issues": 61,
+                "last_commit": "2026-09-27T12:37:28Z",
+                "open_issues": 62,
                 "owner": "hugegraph",
                 "repo": "hugegraph",
                 "stars": 27,
@@ -126,7 +126,7 @@
                 "open_issues": 153,
                 "owner": "oxigraph",
                 "repo": "oxigraph",
-                "stars": 1959,
+                "stars": 1960,
                 "topics": [
                   "graph-database",
                   "rdf-store",
@@ -147,8 +147,8 @@
                 "id": 27594187,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-26T22:51:23Z",
-                "open_issues": 408,
+                "last_commit": "2026-09-27T22:53:35Z",
+                "open_issues": 422,
                 "owner": "ad-freiburg",
                 "repo": "qlever",
                 "stars": 907,
@@ -245,7 +245,7 @@
                 "open_issues": 333,
                 "owner": "antvis",
                 "repo": "G6",
-                "stars": 12309,
+                "stars": 12310,
                 "topics": [
                   "data-visualization",
                   "graph",
@@ -590,7 +590,7 @@
             "open_issues": 8,
             "owner": "husthuke",
             "repo": "awesome-knowledge-graph",
-            "stars": 5163,
+            "stars": 5164,
             "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.486Z"
@@ -628,7 +628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T22:58:25.657Z",
+    "last_updated": "2026-09-27T23:08:00.077Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Knowledge Graph related learning materials, databases, tools and other resources",
@@ -637,7 +637,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-09-11T15:30:31Z",
-      "open_issues": 23,
+      "open_issues": 24,
       "owner": "totogo",
       "repo": "awesome-knowledge-graph",
       "stars": 1893,
