@@ -54,8 +54,8 @@
 
 ### Triple Stores
 
-* [Oxigraph](https://github.com/oxigraph/oxigraph) ⭐ 1,960 | 🐛 153 | 🌐 Rust | 📅 2026-09-24 - a light wight triple store written in Rust.
-* [CLever](https://github.com/ad-freiburg/qlever) ⭐ 907 | 🐛 422 | 🌐 C++ | 📅 2026-09-27 - a SPARQL engine that can efficiently index and query very large knowledge graphs with over 100 billion triples on a single standard PC or server
+* [Oxigraph](https://github.com/oxigraph/oxigraph) ⭐ 1,966 | 🐛 153 | 🌐 Rust | 📅 2026-09-24 - a light wight triple store written in Rust.
+* [CLever](https://github.com/ad-freiburg/qlever) ⭐ 909 | 🐛 432 | 🌐 C++ | 📅 2026-09-29 - a SPARQL engine that can efficiently index and query very large knowledge graphs with over 100 billion triples on a single standard PC or server
 * [AllegroGraph](https://franz.com/agraph/allegrograph/) - high-performance, persistent graph database that scales to billions of quads
 * [Apache Jena](https://jena.apache.org/) - open source Java framework for building Semantic Web and Linked Data applications
 * [Apache Marmotta](https://marmotta.apache.org/) - (retired Apache project) an open platform for linked data
@@ -77,7 +77,7 @@
 
 ### Graph Visualization
 
-* [AntV G6](https://github.com/antvis/g6) ⭐ 12,310 | 🐛 333 | 🌐 TypeScript | 📅 2026-09-23 - Simple, easy and complete high performance graph visualization engine written in JavaScript, from Ant Financial
+* [AntV G6](https://github.com/antvis/g6) ⭐ 12,319 | 🐛 333 | 🌐 TypeScript | 📅 2026-09-23 - Simple, easy and complete high performance graph visualization engine written in JavaScript, from Ant Financial
 * [Graphistry](https://github.com/graphistry/pygraphistry) ⭐ 2,560 | 🐛 377 | 🌐 Python | 📅 2026-09-25 - An end-to-end GPU visual graph analytics engine (Nvidia RAPIDS.ai / Apache Arrow) with interfaces including JS/React, Python (Jupyter/StreamLit), REST, rich no-code/low-code UIs for various databases, and self + cloud hosting, from Graphistry.
 * [Gephi](https://gephi.org/) - Graph visualization platform software runs on Windows, Mac and Linux.
 * [KeyLines & ReGraph](https://cambridge-intelligence.com/) - Graph visualization tookits for JavaScript and React developer from Cambridge Intelligence.
@@ -124,7 +124,7 @@
 
 ### Knowledge Fusion
 
-* [Dedupe](https://github.com/dedupeio/dedupe) ⭐ 4,516 | 🐛 92 | 🌐 Python | 📅 2025-07-29 - dedupe is a python library that uses machine learning to perform fuzzy matching, deduplication and entity resolution quickly on structured data.
+* [Dedupe](https://github.com/dedupeio/dedupe) ⭐ 4,517 | 🐛 92 | 🌐 Python | 📅 2025-07-29 - dedupe is a python library that uses machine learning to perform fuzzy matching, deduplication and entity resolution quickly on structured data.
 * [LIMES](https://github.com/dice-group/LIMES) ⭐ 133 | 🐛 50 | 🌐 JavaScript | 📅 2025-09-16 - Link Discovery Framework for Metric Spaces.
 
 ## Knowledge Graph Dataset
@@ -174,8 +174,8 @@
 
 ### Community Effort
 
-* [Graph Book](https://github.com/krlawrence/graph) ⭐ 864 | 🐛 17 | 🌐 Ruby | 📅 2026-09-08 - TinkerPop3 centric book written by [Kelvin R. Lawrence](https://twitter.com/gfxman)
-* [Ontology Training](https://tesseract.academy/courses/ontology-training-knowledge-graphs-complete-course/) - free 45-lesson course on RDF, OWL 2, SPARQL and SHACL, with the syllabus published as machine-readable RDF at [ontology-curriculum](https://github.com/fabio-rovai/ontology-curriculum) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-08-25
+* [Graph Book](https://github.com/krlawrence/graph) ⭐ 863 | 🐛 17 | 🌐 Ruby | 📅 2026-09-08 - TinkerPop3 centric book written by [Kelvin R. Lawrence](https://twitter.com/gfxman)
+* [Ontology Training](https://tesseract.academy/courses/ontology-training-knowledge-graphs-complete-course/) - free 45-lesson course on RDF, OWL 2, SPARQL and SHACL, with the syllabus published as machine-readable RDF at [ontology-curriculum](https://github.com/fabio-rovai/ontology-curriculum) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-08-25
 * [SQL2Gremlin](http://sql2gremlin.com/) - transition from SQL to Gremlin by [Daniel Kuppitz](https://twitter.com/dkuppitz)
 * [The Gremlin Compendium](http://www.doanduyhai.com/blog/?p=13460) - minimum survival kit for any Gremlin user, 10 blog post series by [Doan DuyHai](https://twitter.com/doanduyhai)
 
@@ -196,7 +196,7 @@
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.\
 Some of the content were copied from other awesome lists:
 
-* [awesome-knowledge-graph](https://github.com/husthuke/awesome-knowledge-graph) ⭐ 5,164 | 🐛 8 | 📅 2021-03-11 - Knowledge graph related materials but all in Chinese
+* [awesome-knowledge-graph](https://github.com/husthuke/awesome-knowledge-graph) ⭐ 5,165 | 🐛 8 | 📅 2021-03-11 - Knowledge graph related materials but all in Chinese
 * [awesome-graph](https://github.com/jbmusso/awesome-graph) ⭐ 1,274 | 🐛 17 | 📅 2026-02-26 - Graph, the infrastructure for Knowledge Graph
 
 ## License
@@ -207,4 +207,4 @@ To the extent possible under law, Sitao Z. has waived all copyright and related 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
