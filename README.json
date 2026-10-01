@@ -94,7 +94,7 @@
                 "id": 693555515,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-27T12:37:28Z",
+                "last_commit": "2026-10-01T18:37:22Z",
                 "open_issues": 65,
                 "owner": "hugegraph",
                 "repo": "hugegraph",
@@ -122,11 +122,11 @@
                 "id": 133687025,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T16:31:23Z",
-                "open_issues": 154,
+                "last_commit": "2026-10-01T15:24:57Z",
+                "open_issues": 153,
                 "owner": "oxigraph",
                 "repo": "oxigraph",
-                "stars": 1968,
+                "stars": 1970,
                 "topics": [
                   "graph-database",
                   "rdf-store",
@@ -147,8 +147,8 @@
                 "id": 27594187,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T23:40:19Z",
-                "open_issues": 439,
+                "last_commit": "2026-10-01T01:03:30Z",
+                "open_issues": 452,
                 "owner": "ad-freiburg",
                 "repo": "qlever",
                 "stars": 909,
@@ -245,7 +245,7 @@
                 "open_issues": 333,
                 "owner": "antvis",
                 "repo": "G6",
-                "stars": 12322,
+                "stars": 12323,
                 "topics": [
                   "data-visualization",
                   "graph",
@@ -277,7 +277,7 @@
                 "open_issues": 377,
                 "owner": "graphistry",
                 "repo": "pygraphistry",
-                "stars": 2564,
+                "stars": 2565,
                 "topics": [
                   "csv",
                   "cudf",
@@ -323,7 +323,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-30T13:52:54Z",
-                "open_issues": 30,
+                "open_issues": 31,
                 "owner": "morph-kgc",
                 "repo": "morph-kgc",
                 "stars": 292,
@@ -364,7 +364,7 @@
                 "open_issues": 377,
                 "owner": "graphistry",
                 "repo": "pygraphistry",
-                "stars": 2564,
+                "stars": 2565,
                 "topics": [
                   "csv",
                   "cudf",
@@ -628,7 +628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T23:57:05.002Z",
+    "last_updated": "2026-10-01T23:57:37.671Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Knowledge Graph related learning materials, databases, tools and other resources",
@@ -640,7 +640,7 @@
       "open_issues": 24,
       "owner": "totogo",
       "repo": "awesome-knowledge-graph",
-      "stars": 1893,
+      "stars": 1894,
       "topics": [
         "awesome-list",
         "graph",
