@@ -21,7 +21,7 @@
                 "open_issues": 93,
                 "owner": "cayleygraph",
                 "repo": "cayley",
-                "stars": 15063,
+                "stars": 15065,
                 "topics": [
                   "cayley",
                   "go",
@@ -75,7 +75,7 @@
                 "open_issues": 3,
                 "owner": "googlearchive",
                 "repo": "graphd",
-                "stars": 452,
+                "stars": 453,
                 "topics": [
                   "graph-database"
                 ]
@@ -94,11 +94,11 @@
                 "id": 693555515,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T02:04:42Z",
-                "open_issues": 55,
+                "last_commit": "2026-10-13T22:33:16Z",
+                "open_issues": 54,
                 "owner": "hugegraph",
                 "repo": "hugegraph",
-                "stars": 27,
+                "stars": 28,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.486Z"
@@ -123,10 +123,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-12T16:19:59Z",
-                "open_issues": 154,
+                "open_issues": 155,
                 "owner": "oxigraph",
                 "repo": "oxigraph",
-                "stars": 1987,
+                "stars": 1989,
                 "topics": [
                   "graph-database",
                   "rdf-store",
@@ -147,11 +147,11 @@
                 "id": 27594187,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T00:40:46Z",
-                "open_issues": 445,
+                "last_commit": "2026-10-13T23:11:18Z",
+                "open_issues": 453,
                 "owner": "ad-freiburg",
                 "repo": "qlever",
-                "stars": 917,
+                "stars": 918,
                 "topics": [
                   "query-engine",
                   "semantic-search-engine",
@@ -185,7 +185,7 @@
                 "open_issues": 35,
                 "owner": "Tencent",
                 "repo": "plato",
-                "stars": 1909,
+                "stars": 1910,
                 "topics": [
                   "graph-computing",
                   "plato"
@@ -241,7 +241,7 @@
                 "id": 81810486,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-10T09:57:09Z",
+                "last_commit": "2026-10-13T08:14:10Z",
                 "open_issues": 335,
                 "owner": "antvis",
                 "repo": "G6",
@@ -273,8 +273,8 @@
                 "id": 36759907,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-13T00:17:03Z",
-                "open_issues": 369,
+                "last_commit": "2026-10-13T10:47:55Z",
+                "open_issues": 371,
                 "owner": "graphistry",
                 "repo": "pygraphistry",
                 "stars": 2569,
@@ -360,8 +360,8 @@
                 "id": 36759907,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-13T00:17:03Z",
-                "open_issues": 369,
+                "last_commit": "2026-10-13T10:47:55Z",
+                "open_issues": 371,
                 "owner": "graphistry",
                 "repo": "pygraphistry",
                 "stars": 2569,
@@ -590,7 +590,7 @@
             "open_issues": 8,
             "owner": "husthuke",
             "repo": "awesome-knowledge-graph",
-            "stars": 5166,
+            "stars": 5165,
             "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.486Z"
@@ -628,7 +628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T02:06:30.593Z",
+    "last_updated": "2026-10-13T23:45:30.973Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Knowledge Graph related learning materials, databases, tools and other resources",
