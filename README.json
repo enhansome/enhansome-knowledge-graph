@@ -75,7 +75,7 @@
                 "open_issues": 3,
                 "owner": "googlearchive",
                 "repo": "graphd",
-                "stars": 453,
+                "stars": 452,
                 "topics": [
                   "graph-database"
                 ]
@@ -94,8 +94,8 @@
                 "id": 693555515,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-25T17:24:00Z",
-                "open_issues": 47,
+                "last_commit": "2026-10-27T20:39:12Z",
+                "open_issues": 52,
                 "owner": "hugegraph",
                 "repo": "hugegraph",
                 "stars": 28,
@@ -123,7 +123,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-23T19:40:05Z",
-                "open_issues": 158,
+                "open_issues": 161,
                 "owner": "oxigraph",
                 "repo": "oxigraph",
                 "stars": 2004,
@@ -147,8 +147,8 @@
                 "id": 27594187,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T23:00:17Z",
-                "open_issues": 422,
+                "last_commit": "2026-10-27T17:15:53Z",
+                "open_issues": 417,
                 "owner": "ad-freiburg",
                 "repo": "qlever",
                 "stars": 931,
@@ -241,7 +241,7 @@
                 "id": 81810486,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-22T09:36:04Z",
+                "last_commit": "2026-10-27T11:58:25Z",
                 "open_issues": 333,
                 "owner": "antvis",
                 "repo": "G6",
@@ -273,7 +273,7 @@
                 "id": 36759907,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-26T03:27:47Z",
+                "last_commit": "2026-10-27T21:03:21Z",
                 "open_issues": 335,
                 "owner": "graphistry",
                 "repo": "pygraphistry",
@@ -360,7 +360,7 @@
                 "id": 36759907,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-26T03:27:47Z",
+                "last_commit": "2026-10-27T21:03:21Z",
                 "open_issues": 335,
                 "owner": "graphistry",
                 "repo": "pygraphistry",
@@ -406,7 +406,7 @@
                 "open_issues": 54,
                 "owner": "amazon-archives",
                 "repo": "dynamodb-janusgraph-storage-backend",
-                "stars": 446,
+                "stars": 445,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.486Z"
@@ -440,7 +440,7 @@
                 "open_issues": 92,
                 "owner": "dedupeio",
                 "repo": "dedupe",
-                "stars": 4523,
+                "stars": 4522,
                 "topics": [
                   "clustering",
                   "datamade",
@@ -628,7 +628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T23:56:35.308Z",
+    "last_updated": "2026-10-27T23:50:52.542Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Knowledge Graph related learning materials, databases, tools and other resources",
