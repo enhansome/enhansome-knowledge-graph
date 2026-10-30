@@ -21,7 +21,7 @@
                 "open_issues": 93,
                 "owner": "cayleygraph",
                 "repo": "cayley",
-                "stars": 15066,
+                "stars": 15067,
                 "topics": [
                   "cayley",
                   "go",
@@ -94,8 +94,8 @@
                 "id": 693555515,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-29T17:09:34Z",
-                "open_issues": 50,
+                "last_commit": "2026-10-30T17:30:54Z",
+                "open_issues": 52,
                 "owner": "hugegraph",
                 "repo": "hugegraph",
                 "stars": 28,
@@ -123,10 +123,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-23T19:40:05Z",
-                "open_issues": 163,
+                "open_issues": 164,
                 "owner": "oxigraph",
                 "repo": "oxigraph",
-                "stars": 2011,
+                "stars": 2015,
                 "topics": [
                   "graph-database",
                   "rdf-store",
@@ -147,8 +147,8 @@
                 "id": 27594187,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-29T17:48:14Z",
-                "open_issues": 420,
+                "last_commit": "2026-10-30T15:27:26Z",
+                "open_issues": 422,
                 "owner": "ad-freiburg",
                 "repo": "qlever",
                 "stars": 934,
@@ -245,7 +245,7 @@
                 "open_issues": 333,
                 "owner": "antvis",
                 "repo": "G6",
-                "stars": 12363,
+                "stars": 12366,
                 "topics": [
                   "data-visualization",
                   "graph",
@@ -326,7 +326,7 @@
                 "open_issues": 31,
                 "owner": "morph-kgc",
                 "repo": "morph-kgc",
-                "stars": 299,
+                "stars": 300,
                 "topics": [
                   "data-engineering",
                   "data-integration",
@@ -590,7 +590,7 @@
             "open_issues": 8,
             "owner": "husthuke",
             "repo": "awesome-knowledge-graph",
-            "stars": 5175,
+            "stars": 5176,
             "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.486Z"
@@ -611,7 +611,7 @@
             "open_issues": 19,
             "owner": "jbmusso",
             "repo": "awesome-graph",
-            "stars": 1274,
+            "stars": 1275,
             "topics": [
               "graph",
               "graph-computing",
@@ -628,7 +628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T23:59:27.504Z",
+    "last_updated": "2026-10-30T23:53:53.871Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Knowledge Graph related learning materials, databases, tools and other resources",
@@ -640,7 +640,7 @@
       "open_issues": 34,
       "owner": "totogo",
       "repo": "awesome-knowledge-graph",
-      "stars": 1905,
+      "stars": 1906,
       "topics": [
         "awesome-list",
         "graph",
