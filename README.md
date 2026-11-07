@@ -54,8 +54,8 @@
 
 ### Triple Stores
 
-* [Oxigraph](https://github.com/oxigraph/oxigraph) ⭐ 2,024 | 🐛 166 | 🌐 Rust | 📅 2026-11-05 - a light wight triple store written in Rust.
-* [CLever](https://github.com/ad-freiburg/qlever) ⭐ 939 | 🐛 425 | 🌐 C++ | 📅 2026-11-06 - a SPARQL engine that can efficiently index and query very large knowledge graphs with over 100 billion triples on a single standard PC or server
+* [Oxigraph](https://github.com/oxigraph/oxigraph) ⭐ 2,025 | 🐛 168 | 🌐 Rust | 📅 2026-11-05 - a light wight triple store written in Rust.
+* [CLever](https://github.com/ad-freiburg/qlever) ⭐ 940 | 🐛 423 | 🌐 C++ | 📅 2026-11-07 - a SPARQL engine that can efficiently index and query very large knowledge graphs with over 100 billion triples on a single standard PC or server
 * [AllegroGraph](https://franz.com/agraph/allegrograph/) - high-performance, persistent graph database that scales to billions of quads
 * [Apache Jena](https://jena.apache.org/) - open source Java framework for building Semantic Web and Linked Data applications
 * [Apache Marmotta](https://marmotta.apache.org/) - (retired Apache project) an open platform for linked data
@@ -77,8 +77,8 @@
 
 ### Graph Visualization
 
-* [AntV G6](https://github.com/antvis/g6) ⭐ 12,381 | 🐛 333 | 🌐 TypeScript | 📅 2026-10-27 - Simple, easy and complete high performance graph visualization engine written in JavaScript, from Ant Financial
-* [Graphistry](https://github.com/graphistry/pygraphistry) ⭐ 2,577 | 🐛 337 | 🌐 Python | 📅 2026-11-02 - An end-to-end GPU visual graph analytics engine (Nvidia RAPIDS.ai / Apache Arrow) with interfaces including JS/React, Python (Jupyter/StreamLit), REST, rich no-code/low-code UIs for various databases, and self + cloud hosting, from Graphistry.
+* [AntV G6](https://github.com/antvis/g6) ⭐ 12,382 | 🐛 333 | 🌐 TypeScript | 📅 2026-10-27 - Simple, easy and complete high performance graph visualization engine written in JavaScript, from Ant Financial
+* [Graphistry](https://github.com/graphistry/pygraphistry) ⭐ 2,577 | 🐛 339 | 🌐 Python | 📅 2026-11-02 - An end-to-end GPU visual graph analytics engine (Nvidia RAPIDS.ai / Apache Arrow) with interfaces including JS/React, Python (Jupyter/StreamLit), REST, rich no-code/low-code UIs for various databases, and self + cloud hosting, from Graphistry.
 * [Gephi](https://gephi.org/) - Graph visualization platform software runs on Windows, Mac and Linux.
 * [KeyLines & ReGraph](https://cambridge-intelligence.com/) - Graph visualization tookits for JavaScript and React developer from Cambridge Intelligence.
 * [Linkurious](https://linkurio.us) - Linkurious is an enterprise ready on-premises graph visualization and analysis platform.
@@ -103,7 +103,7 @@
 
 ### Managed Hosting Services
 
-* [Graphistry](https://github.com/graphistry/pygraphistry) ⭐ 2,577 | 🐛 337 | 🌐 Python | 📅 2026-11-02 - Cloud accounts for Graphistry end-to-end GPU-accelerated visual graph analytics projects
+* [Graphistry](https://github.com/graphistry/pygraphistry) ⭐ 2,577 | 🐛 339 | 🌐 Python | 📅 2026-11-02 - Cloud accounts for Graphistry end-to-end GPU-accelerated visual graph analytics projects
 * [JanusGraph @ Amazon Web Services Labs](https://github.com/awslabs/dynamodb-janusgraph-storage-backend) ⚠️ Archived - The Amazon DynamoDB Storage Backend for JanusGraph
 * [CosmosDB @ Microsoft](https://docs.microsoft.com/en-us/azure/cosmos-db/graph-introduction) - Azure Cosmos DB is Microsoft's globally distributed, multi-model (Key-value, Document, Column, Graph) database service.
 * [JanusGraph @ IBM Compose](https://www.compose.com/databases/janusgraph)
@@ -196,7 +196,7 @@
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.\
 Some of the content were copied from other awesome lists:
 
-* [awesome-knowledge-graph](https://github.com/husthuke/awesome-knowledge-graph) ⭐ 5,181 | 🐛 8 | 📅 2021-03-11 - Knowledge graph related materials but all in Chinese
+* [awesome-knowledge-graph](https://github.com/husthuke/awesome-knowledge-graph) ⭐ 5,182 | 🐛 8 | 📅 2021-03-11 - Knowledge graph related materials but all in Chinese
 * [awesome-graph](https://github.com/jbmusso/awesome-graph) ⭐ 1,277 | 🐛 20 | 📅 2026-02-26 - Graph, the infrastructure for Knowledge Graph
 
 ## License
