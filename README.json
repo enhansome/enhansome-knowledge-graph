@@ -147,11 +147,11 @@
                 "id": 27594187,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T00:52:55Z",
-                "open_issues": 420,
+                "last_commit": "2026-11-06T20:10:20Z",
+                "open_issues": 425,
                 "owner": "ad-freiburg",
                 "repo": "qlever",
-                "stars": 938,
+                "stars": 939,
                 "topics": [
                   "query-engine",
                   "semantic-search-engine",
@@ -245,7 +245,7 @@
                 "open_issues": 333,
                 "owner": "antvis",
                 "repo": "G6",
-                "stars": 12379,
+                "stars": 12381,
                 "topics": [
                   "data-visualization",
                   "graph",
@@ -590,7 +590,7 @@
             "open_issues": 8,
             "owner": "husthuke",
             "repo": "awesome-knowledge-graph",
-            "stars": 5179,
+            "stars": 5181,
             "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.486Z"
@@ -608,7 +608,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-02-26T11:03:59Z",
-            "open_issues": 19,
+            "open_issues": 20,
             "owner": "jbmusso",
             "repo": "awesome-graph",
             "stars": 1277,
@@ -628,7 +628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T00:58:57.506Z",
+    "last_updated": "2026-11-07T00:08:59.212Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Knowledge Graph related learning materials, databases, tools and other resources",
@@ -637,10 +637,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-09-11T15:30:31Z",
-      "open_issues": 38,
+      "open_issues": 40,
       "owner": "totogo",
       "repo": "awesome-knowledge-graph",
-      "stars": 1909,
+      "stars": 1910,
       "topics": [
         "awesome-list",
         "graph",
