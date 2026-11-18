@@ -123,10 +123,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-15T16:32:25Z",
-                "open_issues": 171,
+                "open_issues": 174,
                 "owner": "oxigraph",
                 "repo": "oxigraph",
-                "stars": 2049,
+                "stars": 2053,
                 "topics": [
                   "graph-database",
                   "rdf-store",
@@ -147,11 +147,11 @@
                 "id": 27594187,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-17T02:24:31Z",
-                "open_issues": 427,
+                "last_commit": "2026-11-17T20:34:31Z",
+                "open_issues": 433,
                 "owner": "ad-freiburg",
                 "repo": "qlever",
-                "stars": 946,
+                "stars": 947,
                 "topics": [
                   "query-engine",
                   "semantic-search-engine",
@@ -242,10 +242,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-13T09:06:23Z",
-                "open_issues": 334,
+                "open_issues": 335,
                 "owner": "antvis",
                 "repo": "G6",
-                "stars": 12400,
+                "stars": 12396,
                 "topics": [
                   "data-visualization",
                   "graph",
@@ -273,8 +273,8 @@
                 "id": 36759907,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-16T19:24:34Z",
-                "open_issues": 370,
+                "last_commit": "2026-11-18T02:06:13Z",
+                "open_issues": 377,
                 "owner": "graphistry",
                 "repo": "pygraphistry",
                 "stars": 2582,
@@ -360,8 +360,8 @@
                 "id": 36759907,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-16T19:24:34Z",
-                "open_issues": 370,
+                "last_commit": "2026-11-18T02:06:13Z",
+                "open_issues": 377,
                 "owner": "graphistry",
                 "repo": "pygraphistry",
                 "stars": 2582,
@@ -406,7 +406,7 @@
                 "open_issues": 54,
                 "owner": "amazon-archives",
                 "repo": "dynamodb-janusgraph-storage-backend",
-                "stars": 445,
+                "stars": 444,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.486Z"
@@ -440,7 +440,7 @@
                 "open_issues": 93,
                 "owner": "dedupeio",
                 "repo": "dedupe",
-                "stars": 4530,
+                "stars": 4531,
                 "topics": [
                   "clustering",
                   "datamade",
@@ -590,7 +590,7 @@
             "open_issues": 8,
             "owner": "husthuke",
             "repo": "awesome-knowledge-graph",
-            "stars": 5183,
+            "stars": 5182,
             "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.486Z"
@@ -628,7 +628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T02:59:06.680Z",
+    "last_updated": "2026-11-18T02:27:52.553Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Knowledge Graph related learning materials, databases, tools and other resources",
