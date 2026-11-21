@@ -122,8 +122,8 @@
                 "id": 133687025,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-15T16:32:25Z",
-                "open_issues": 174,
+                "last_commit": "2026-11-20T20:27:51Z",
+                "open_issues": 171,
                 "owner": "oxigraph",
                 "repo": "oxigraph",
                 "stars": 2055,
@@ -147,8 +147,8 @@
                 "id": 27594187,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T00:22:18Z",
-                "open_issues": 434,
+                "last_commit": "2026-11-20T18:33:27Z",
+                "open_issues": 430,
                 "owner": "ad-freiburg",
                 "repo": "qlever",
                 "stars": 947,
@@ -245,7 +245,7 @@
                 "open_issues": 336,
                 "owner": "antvis",
                 "repo": "G6",
-                "stars": 12396,
+                "stars": 12398,
                 "topics": [
                   "data-visualization",
                   "graph",
@@ -277,7 +277,7 @@
                 "open_issues": 379,
                 "owner": "graphistry",
                 "repo": "pygraphistry",
-                "stars": 2581,
+                "stars": 2582,
                 "topics": [
                   "csv",
                   "cudf",
@@ -364,7 +364,7 @@
                 "open_issues": 379,
                 "owner": "graphistry",
                 "repo": "pygraphistry",
-                "stars": 2581,
+                "stars": 2582,
                 "topics": [
                   "csv",
                   "cudf",
@@ -628,7 +628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T01:47:53.286Z",
+    "last_updated": "2026-11-21T01:35:42.272Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Knowledge Graph related learning materials, databases, tools and other resources",
